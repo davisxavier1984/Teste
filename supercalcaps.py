@@ -1,10 +1,3 @@
-!pip install selenium
-
-!apt-get update
-!apt-get install -y chromium-browser
-
-!apt install chromium-chromedriver
-
 from selenium import webdriver
 import time
 
