@@ -1,1 +1,3 @@
 selenium
+chrome
+chromedriver
