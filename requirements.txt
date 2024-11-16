@@ -1,4 +1,3 @@
-google
 google-generativeai
 os
 python-dotenv
