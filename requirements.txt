@@ -1,4 +1,4 @@
 google
-google.generativeai
+google-generativeai
 dotenv
 os
