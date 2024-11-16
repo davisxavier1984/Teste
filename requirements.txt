@@ -1,4 +1,3 @@
 google-generativeai
-os
 python-dotenv
 PyPDF2
