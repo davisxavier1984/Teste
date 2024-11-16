@@ -1,5 +1,5 @@
 google
 google-generativeai
-dotenv
 os
-streamlit
+python-dotenv
+PyPDF2
