@@ -2,3 +2,4 @@ google
 google-generativeai
 dotenv
 os
+streamlit
