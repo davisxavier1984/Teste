@@ -18,7 +18,6 @@ def update_pie(total_value, val):
     return fig
 
 # Solicitação de valor em reais
-st.title("Gráfico de Pizza Interativo")
 total_value = st.number_input("Insira o valor total em R$:", min_value=0.0, format="%.2f")
 
 # Valores iniciais das fatias
