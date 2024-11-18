@@ -21,7 +21,7 @@ def update_pie(total_value, val):
 total_value = st.number_input("Insira o valor total em R$:", min_value=0.0, format="%.2f")
 
 # Valores iniciais das fatias
-sizes = [25, 25, 50]
+sizes = [33.5, 33.5, 33]
 real_sizes = [total_value * (size / 100) for size in sizes]
 
 # Controle deslizante para ajustar a terceira fatia
