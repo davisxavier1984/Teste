@@ -18,14 +18,15 @@ def update_pie(total_value, val):
     return fig
 
 # Solicitação de valor em reais
+st.title("Gráfico de Pizza Interativo")
 total_value = st.number_input("Insira o valor total em R$:", min_value=0.0, format="%.2f")
 
 # Valores iniciais das fatias
-sizes = [33.5, 33.5, 33]
+sizes = [33.33, 33.33, 33.34]  # Inicializando as fatias com valores iguais
 real_sizes = [total_value * (size / 100) for size in sizes]
 
 # Controle deslizante para ajustar a terceira fatia
-slider_value = st.slider("Ajuste a terceira fatia (%):", min_value=0, max_value=100, value=50, step=1)
+slider_value = st.slider("Ajuste a terceira fatia (%):", min_value=0, max_value=100, value=33, step=1)
 
 # Atualiza o gráfico de pizza
 fig = update_pie(total_value, slider_value)
