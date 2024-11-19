@@ -117,7 +117,6 @@ if st.session_state.perguntas_habilitadas:
     # Frame para as respostas
     resposta_container = st.container()
     with resposta_container:
-        
         for i, chat in enumerate(st.session_state.historico_perguntas):
             st.markdown(f"**Pergunta {i + 1}:** {chat['pergunta']}", unsafe_allow_html=True)
             st.markdown(f"**Resposta {i + 1}:** {chat['resposta']}", unsafe_allow_html=True)
@@ -129,9 +128,14 @@ if st.session_state.perguntas_habilitadas:
         if userquestion and st.session_state.pdfs_carregados:
             with st.spinner('Gerando resposta...'):
                 try:
-                    # Gerar o conteúdo a partir dos PDFs
+                    # Gerar o conteúdo a partir dos PDFs e do histórico de perguntas
                     prompt = f"Responda a seguinte pergunta no idioma dos documentos enviados: {userquestion}"
-                    response = model.generate_content([prompt] + st.session_state.pdfs_carregados)
+                    
+                    # Incluir histórico de perguntas e respostas
+                    historico_prompt = "\n".join([f"Pergunta: {item['pergunta']}\nResposta: {item['resposta']}" for item in st.session_state.historico_perguntas])
+                    completo_prompt = f"{historico_prompt}\n{prompt}" if historico_prompt else prompt
+                    
+                    response = model.generate_content([completo_prompt] + st.session_state.pdfs_carregados)
                     answer = response.text
                     
                     # Adicionar ao histórico
