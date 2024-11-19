@@ -100,7 +100,7 @@ api_key = os.getenv("API_KEY")
 genai.configure(api_key=api_key)
 
 # Inicializar o modelo
-model = genai.GenerativeModel("gemini-1.5-pro")
+model = genai.GenerativeModel("gemini-1.5-flash")
 
 # Botão para excluir os documentos carregados
 if st.button('📝 Excluir Documentos'):
