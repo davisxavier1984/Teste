@@ -2,7 +2,6 @@ import streamlit as st
 import google.generativeai as genai
 from dotenv import load_dotenv
 import os
-import pyautogui
 import time
 
 st.title('Análise de Documentos 📄🤖')
@@ -82,7 +81,7 @@ def delete_documents():
                 st.session_state.perguntas_habilitadas = False
                 st.toast('Documentos excluídos com sucesso!', icon="🗑️")
                 time.sleep(2)
-                pyautogui.hotkey('ctrl', 'f5')  # Simula a atualização da página
+                
         else:
             st.warning('Nenhum documento para excluir.')
     except Exception as e:
