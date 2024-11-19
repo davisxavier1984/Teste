@@ -117,7 +117,7 @@ if st.session_state.perguntas_habilitadas:
     # Frame para as respostas
     resposta_container = st.container()
     with resposta_container:
-        st.write("### Respostas")
+        
         for i, chat in enumerate(st.session_state.historico_perguntas):
             st.markdown(f"**Pergunta {i + 1}:** {chat['pergunta']}", unsafe_allow_html=True)
             st.markdown(f"**Resposta {i + 1}:** {chat['resposta']}", unsafe_allow_html=True)
