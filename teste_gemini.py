@@ -143,7 +143,7 @@ if st.session_state.perguntas_habilitadas:
                     
                     # Exibir a resposta dentro do container
                     with resposta_container:
-                        st.markdown(f"### Resposta {len(st.session_state.historico_perguntas)}:")
+                        st.write_stream(f"### Resposta {len(st.session_state.historico_perguntas)}:")
                         st.markdown(answer, unsafe_allow_html=True)
 
                     # Limpar o campo de pergunta
