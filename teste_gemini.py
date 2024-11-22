@@ -97,7 +97,7 @@ load_dotenv()
 api_key = os.getenv("API_KEY")
 
 # Configurar a chave da API
-genai.configure(api_key=api_key)
+genai.configure(api_key=api_key, stream=True)
 
 # Inicializar o modelo
 model = genai.GenerativeModel("gemini-1.5-flash")
