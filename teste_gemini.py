@@ -97,7 +97,7 @@ load_dotenv()
 api_key = os.getenv("API_KEY")
 
 # Configurar a chave da API
-genai.configure(api_key=api_key, stream=True)
+genai.configure(api_key=api_key)
 
 # Inicializar o modelo
 model = genai.GenerativeModel("gemini-1.5-flash")
@@ -135,7 +135,7 @@ if st.session_state.perguntas_habilitadas:
                     historico_prompt = "\n".join([f"Pergunta: {item['pergunta']}\nResposta: {item['resposta']}" for item in st.session_state.historico_perguntas])
                     completo_prompt = f"{historico_prompt}\n{prompt}" if historico_prompt else prompt
                     
-                    response = model.generate_content([completo_prompt] + st.session_state.pdfs_carregados)
+                    response = model.generate_content([completo_prompt] + st.session_state.pdfs_carregados, stream=True)
                     answer = response.text
                     
                     # Adicionar ao histórico
