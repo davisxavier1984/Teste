@@ -1,0 +1,65 @@
+[
+    {
+        "Portaria": "GM 06267/2024",
+        "Data": "27/12/2024",
+        "Tipo": "Acréscimo",
+        "Incentivo": "Incentivo CAPS I, II, III, i e ad",
+        "Área": "Saúde Mental-RAPS",
+        "Competência": "11ª/2024",
+        "Valor": "84192.00"
+    },
+    {
+        "Portaria": "GM 01631/2023",
+        "Data": "24/10/2023",
+        "Tipo": "Acréscimo",
+        "Incentivo": "Incentivo SAMU",
+        "Área": "SAMU",
+        "Competência": "8ª/2023",
+        "Valor": "204750.00"
+    },
+    {
+        "Portaria": "GM 01261/2023",
+        "Data": "13/09/2023",
+        "Tipo": "Acréscimo",
+        "Incentivo": "Incentivo CAPS I, II, III, i e ad",
+        "Área": "Saúde Mental-RAPS",
+        "Competência": "6ª/2023",
+        "Valor": "92076.00"
+    },
+    {
+        "Portaria": "GM 01366/2022",
+        "Data": "08/06/2022",
+        "Tipo": "Acréscimo",
+        "Incentivo": "Incentivo CAPS I, II, III, i e ad",
+        "Área": "Saúde Mental-RAPS",
+        "Competência": "7ª/2022",
+        "Valor": "339660.00"
+    },
+    {
+        "Portaria": "GM 04120/2010",
+        "Data": "24/12/2010",
+        "Tipo": "Acréscimo",
+        "Incentivo": "TABELA DE PROCEDIMENTOS",
+        "Área": "Média e Alta Complexidade",
+        "Competência": "1ª/2011",
+        "Valor": "1784.93"
+    },
+    {
+        "Portaria": "SAS 00258/2010",
+        "Data": "01/06/2010",
+        "Tipo": "Remanejamento_Intra",
+        "Incentivo": "DECISÃO CIB",
+        "Área": "Média e Alta Complexidade",
+        "Competência": "6ª/2010",
+        "Valor": "2162688.92"
+    },
+    {
+        "Portaria": "",
+        "Data": "31/12/2002",
+        "Tipo": "Limite Inicial",
+        "Incentivo": "Limite Financeiro MAC até Jan/2003",
+        "Área": "Média e Alta Complexidade",
+        "Competência": "1ª/2003",
+        "Valor": "0.00"
+    }
+]

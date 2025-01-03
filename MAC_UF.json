@@ -1,0 +1,3773 @@
+[
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290000",
+        "Estado / Município": "BAHIA",
+        "Código Gestão": "0",
+        "Descrição Gestão": "Total UF",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "4155624881.83"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290000",
+        "Estado / Município": "BAHIA",
+        "Código Gestão": "2",
+        "Descrição Gestão": "Gestão Estadual",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1915446904.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290010",
+        "Estado / Município": "ABAÍRA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "497974.45"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290020",
+        "Estado / Município": "ABARÉ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "894989.03"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290030",
+        "Estado / Município": "ACAJUTIBA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290035",
+        "Estado / Município": "ADUSTINA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "288190.41"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290040",
+        "Estado / Município": "ÁGUA FRIA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "341936.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290050",
+        "Estado / Município": "ÉRICO CARDOSO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "508084.11"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290060",
+        "Estado / Município": "AIQUARA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "204750.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290070",
+        "Estado / Município": "ALAGOINHAS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "36404902.73"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290080",
+        "Estado / Município": "ALCOBAÇA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1705844.09"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290090",
+        "Estado / Município": "ALMADINA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290100",
+        "Estado / Município": "AMARGOSA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "5939097.81"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290110",
+        "Estado / Município": "AMÉLIA RODRIGUES",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2101173.87"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290115",
+        "Estado / Município": "AMÉRICA DOURADA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1434680.92"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290120",
+        "Estado / Município": "ANAGÉ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2465952.48"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290130",
+        "Estado / Município": "ANDARAÍ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290135",
+        "Estado / Município": "ANDORINHA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1072647.30"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290140",
+        "Estado / Município": "ANGICAL",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "814638.06"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290150",
+        "Estado / Município": "ANGUERA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "313055.41"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290160",
+        "Estado / Município": "ANTAS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290170",
+        "Estado / Município": "ANTÔNIO CARDOSO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "252000.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290180",
+        "Estado / Município": "ANTÔNIO GONÇALVES",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "504608.83"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290190",
+        "Estado / Município": "APORÁ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "607908.53"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290195",
+        "Estado / Município": "APUAREMA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "341936.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290200",
+        "Estado / Município": "ARACATU",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "431736.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290205",
+        "Estado / Município": "ARAÇAS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "204750.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290210",
+        "Estado / Município": "ARACI",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "4817852.97"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290220",
+        "Estado / Município": "ARAMARI",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "506019.78"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290225",
+        "Estado / Município": "ARATACA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "204750.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290230",
+        "Estado / Município": "ARATUÍPE",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "204750.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290240",
+        "Estado / Município": "AURELINO LEAL",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "828750.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290250",
+        "Estado / Município": "BAIANÓPOLIS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "998588.20"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290260",
+        "Estado / Município": "BAIXA GRANDE",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "431736.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290265",
+        "Estado / Município": "BANZAÊ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "369096.98"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290270",
+        "Estado / Município": "BARRA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1525920.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290280",
+        "Estado / Município": "BARRA DA ESTIVA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "636486.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290290",
+        "Estado / Município": "BARRA DO CHOÇA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "3115125.31"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290300",
+        "Estado / Município": "BARRA DO MENDES",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "778324.12"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290310",
+        "Estado / Município": "BARRA DO ROCHA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "341936.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290320",
+        "Estado / Município": "BARREIRAS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "56410320.23"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290323",
+        "Estado / Município": "BARRO ALTO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "791184.39"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290327",
+        "Estado / Município": "BARROCAS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "917672.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290330",
+        "Estado / Município": "BARRO PRETO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290340",
+        "Estado / Município": "BELMONTE",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1166886.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290350",
+        "Estado / Município": "BELO CAMPO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2599028.23"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290360",
+        "Estado / Município": "BIRITINGA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "916268.86"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290370",
+        "Estado / Município": "BOA NOVA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290380",
+        "Estado / Município": "BOA VISTA DO TUPIM",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "431736.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290390",
+        "Estado / Município": "BOM JESUS DA LAPA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "17088865.58"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290395",
+        "Estado / Município": "BOM JESUS DA SERRA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "613704.47"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290400",
+        "Estado / Município": "BONINAL",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1117468.10"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290405",
+        "Estado / Município": "BONITO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "601984.21"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290410",
+        "Estado / Município": "BOQUIRA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2359910.57"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290420",
+        "Estado / Município": "BOTUPORÃ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1675923.51"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290430",
+        "Estado / Município": "BREJÕES",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "341936.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290440",
+        "Estado / Município": "BREJOLÂNDIA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1306054.96"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290450",
+        "Estado / Município": "BROTAS DE MACAÚBAS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "763493.41"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290460",
+        "Estado / Município": "BRUMADO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "11726896.88"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290470",
+        "Estado / Município": "BUERAREMA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "965936.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290475",
+        "Estado / Município": "BURITIRAMA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "773672.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290480",
+        "Estado / Município": "CAATIBA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "533639.73"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290485",
+        "Estado / Município": "CABACEIRAS DO PARAGUAÇU",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1098243.38"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290490",
+        "Estado / Município": "CACHOEIRA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "773672.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290500",
+        "Estado / Município": "CACULÉ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2683578.48"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290510",
+        "Estado / Município": "CAÉM",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290515",
+        "Estado / Município": "CAETANOS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "431736.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290520",
+        "Estado / Município": "CAETITÉ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "14128548.18"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290530",
+        "Estado / Município": "CAFARNAUM",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "204750.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290540",
+        "Estado / Município": "CAIRU",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "431736.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290550",
+        "Estado / Município": "CALDEIRÃO GRANDE",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1126050.09"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290560",
+        "Estado / Município": "CAMACAN",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2149920.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290570",
+        "Estado / Município": "CAMAÇARI",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "23235564.12"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290580",
+        "Estado / Município": "CAMAMU",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1260486.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290590",
+        "Estado / Município": "CAMPO ALEGRE DE LOURDES",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2437383.46"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290600",
+        "Estado / Município": "CAMPO FORMOSO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "4893943.41"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290610",
+        "Estado / Município": "CANÁPOLIS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "703575.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290620",
+        "Estado / Município": "CANARANA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1817741.95"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290630",
+        "Estado / Município": "CANAVIEIRAS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "3052052.60"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290640",
+        "Estado / Município": "CANDEAL",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290650",
+        "Estado / Município": "CANDEIAS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "4809291.27"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290660",
+        "Estado / Município": "CANDIBA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1133580.24"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290670",
+        "Estado / Município": "CÂNDIDO SALES",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2631045.59"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290680",
+        "Estado / Município": "CANSANÇÃO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2903821.04"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290682",
+        "Estado / Município": "CANUDOS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1597494.84"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290685",
+        "Estado / Município": "CAPELA DO ALTO ALEGRE",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "974552.28"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290687",
+        "Estado / Município": "CAPIM GROSSO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "5388197.59"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290689",
+        "Estado / Município": "CARAÍBAS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290690",
+        "Estado / Município": "CARAVELAS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2285158.70"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290700",
+        "Estado / Município": "CARDEAL DA SILVA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "286991.50"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290710",
+        "Estado / Município": "CARINHANHA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2313879.85"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290720",
+        "Estado / Município": "CASA NOVA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "3325917.95"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290730",
+        "Estado / Município": "CASTRO ALVES",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2746179.07"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290740",
+        "Estado / Município": "CATOLÂNDIA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290750",
+        "Estado / Município": "CATU",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "5911865.28"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290755",
+        "Estado / Município": "CATURAMA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "204750.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290760",
+        "Estado / Município": "CENTRAL",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1186732.35"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290770",
+        "Estado / Município": "CHORROCHÓ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1166035.02"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290780",
+        "Estado / Município": "CÍCERO DANTAS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2353484.62"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290790",
+        "Estado / Município": "CIPÓ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1292730.97"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290800",
+        "Estado / Município": "COARACI",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "3447191.09"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290810",
+        "Estado / Município": "COCOS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "773672.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290820",
+        "Estado / Município": "CONCEIÇÃO DA FEIRA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1946220.63"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290830",
+        "Estado / Município": "CONCEIÇÃO DO ALMEIDA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2440482.25"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290840",
+        "Estado / Município": "CONCEIÇÃO DO COITÉ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "8556720.60"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290850",
+        "Estado / Município": "CONCEIÇÃO DO JACUÍPE",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "3918041.18"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290860",
+        "Estado / Município": "CONDE",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "204750.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290870",
+        "Estado / Município": "CONDEÚBA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1669937.60"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290880",
+        "Estado / Município": "CONTENDAS DO SINCORÁ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "35424.69"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290890",
+        "Estado / Município": "CORAÇÃO DE MARIA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1617318.48"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290900",
+        "Estado / Município": "CORDEIROS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290910",
+        "Estado / Município": "CORIBE",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1451111.46"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290920",
+        "Estado / Município": "CORONEL JOÃO SÁ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "774202.66"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290930",
+        "Estado / Município": "CORRENTINA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2455789.79"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290940",
+        "Estado / Município": "COTEGIPE",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "341936.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290950",
+        "Estado / Município": "CRAVOLÂNDIA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290960",
+        "Estado / Município": "CRISÓPOLIS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2250475.96"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290970",
+        "Estado / Município": "CRISTÓPOLIS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "341936.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290980",
+        "Estado / Município": "CRUZ DAS ALMAS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "9317458.20"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "290990",
+        "Estado / Município": "CURAÇÁ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1935135.18"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291000",
+        "Estado / Município": "DÁRIO MEIRA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "691257.22"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291005",
+        "Estado / Município": "DIAS D'ÁVILA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "8874614.92"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291010",
+        "Estado / Município": "DOM BASÍLIO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1217936.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291020",
+        "Estado / Município": "DOM MACEDO COSTA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "14282.42"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291030",
+        "Estado / Município": "ELÍSIO MEDRADO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291040",
+        "Estado / Município": "ENCRUZILHADA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2034013.79"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291050",
+        "Estado / Município": "ENTRE RIOS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2804100.85"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291060",
+        "Estado / Município": "ESPLANADA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2461086.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291070",
+        "Estado / Município": "EUCLIDES DA CUNHA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "7848143.36"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291072",
+        "Estado / Município": "EUNÁPOLIS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "22440994.16"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291075",
+        "Estado / Município": "FÁTIMA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "644568.47"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291077",
+        "Estado / Município": "FEIRA DA MATA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "341936.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291080",
+        "Estado / Município": "FEIRA DE SANTANA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "115458400.68"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291085",
+        "Estado / Município": "FILADÉLFIA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1509657.58"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291090",
+        "Estado / Município": "FIRMINO ALVES",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291100",
+        "Estado / Município": "FLORESTA AZUL",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291110",
+        "Estado / Município": "FORMOSA DO RIO PRETO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1352245.80"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291120",
+        "Estado / Município": "GANDU",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "6814581.07"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291125",
+        "Estado / Município": "GAVIÃO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291130",
+        "Estado / Município": "GENTIO DO OURO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "758912.20"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291140",
+        "Estado / Município": "GLÓRIA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "577240.46"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291150",
+        "Estado / Município": "GONGOGI",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "593936.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291160",
+        "Estado / Município": "GOVERNADOR MANGABEIRA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1819049.70"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291165",
+        "Estado / Município": "GUAJERU",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "204750.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291170",
+        "Estado / Município": "GUANAMBI",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "22434102.14"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291180",
+        "Estado / Município": "GUARATINGA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "204750.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291185",
+        "Estado / Município": "HELIÓPOLIS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "136671.77"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291190",
+        "Estado / Município": "IAÇU",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2043069.90"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291200",
+        "Estado / Município": "IBIASSUCÊ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1662075.30"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291210",
+        "Estado / Município": "IBICARAÍ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2713241.91"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291220",
+        "Estado / Município": "IBICOARA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "636426.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291230",
+        "Estado / Município": "IBICUÍ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1148516.67"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291240",
+        "Estado / Município": "IBIPEBA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1266812.31"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291250",
+        "Estado / Município": "IBIPITANGA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1328851.60"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291260",
+        "Estado / Município": "IBIQUERA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291270",
+        "Estado / Município": "IBIRAPITANGA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1260486.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291280",
+        "Estado / Município": "IBIRAPUÃ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "498612.52"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291290",
+        "Estado / Município": "IBIRATAIA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "3750971.56"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291300",
+        "Estado / Município": "IBITIARA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1482025.48"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291310",
+        "Estado / Município": "IBITITÁ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "204750.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291320",
+        "Estado / Município": "IBOTIRAMA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "5521057.08"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291330",
+        "Estado / Município": "ICHU",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291340",
+        "Estado / Município": "IGAPORÃ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "636486.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291345",
+        "Estado / Município": "IGRAPIÚNA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291350",
+        "Estado / Município": "IGUAÍ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "431736.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291360",
+        "Estado / Município": "ILHÉUS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "45057044.34"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291370",
+        "Estado / Município": "INHAMBUPE",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "3295282.24"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291380",
+        "Estado / Município": "IPECAETÁ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "431736.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291390",
+        "Estado / Município": "IPIAÚ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1525920.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291400",
+        "Estado / Município": "IPIRÁ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "5720784.97"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291410",
+        "Estado / Município": "IPUPIARA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1094184.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291420",
+        "Estado / Município": "IRAJUBA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "431736.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291430",
+        "Estado / Município": "IRAMAIA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "341936.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291440",
+        "Estado / Município": "IRAQUARA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "431736.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291450",
+        "Estado / Município": "IRARÁ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2602561.35"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291460",
+        "Estado / Município": "IRECÊ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "12448082.17"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291465",
+        "Estado / Município": "ITABELA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "3243729.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291470",
+        "Estado / Município": "ITABERABA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "15031224.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291480",
+        "Estado / Município": "ITABUNA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "141158450.08"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291490",
+        "Estado / Município": "ITACARÉ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2152467.60"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291500",
+        "Estado / Município": "ITAETÉ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "431676.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291510",
+        "Estado / Município": "ITAGI",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "341936.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291520",
+        "Estado / Município": "ITAGIBÁ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291530",
+        "Estado / Município": "ITAGIMIRIM",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "204750.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291535",
+        "Estado / Município": "ITAGUAÇU DA BAHIA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1316262.21"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291540",
+        "Estado / Município": "ITAJU DO COLÔNIA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291550",
+        "Estado / Município": "ITAJUÍPE",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "431736.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291560",
+        "Estado / Município": "ITAMARAJU",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "11004226.14"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291570",
+        "Estado / Município": "ITAMARI",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291580",
+        "Estado / Município": "ITAMBÉ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1397672.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291590",
+        "Estado / Município": "ITANAGRA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "204750.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291600",
+        "Estado / Município": "ITANHÉM",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2791196.23"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291610",
+        "Estado / Município": "ITAPARICA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2059932.44"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291620",
+        "Estado / Município": "ITAPÉ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291630",
+        "Estado / Município": "ITAPEBI",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "204750.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291640",
+        "Estado / Município": "ITAPETINGA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "14578409.55"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291650",
+        "Estado / Município": "ITAPICURU",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2151672.69"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291660",
+        "Estado / Município": "ITAPITANGA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291670",
+        "Estado / Município": "ITAQUARA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "357481.29"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291680",
+        "Estado / Município": "ITARANTIM",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291685",
+        "Estado / Município": "ITATIM",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1359399.79"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291690",
+        "Estado / Município": "ITIRUÇU",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291700",
+        "Estado / Município": "ITIÚBA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "3333137.92"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291710",
+        "Estado / Município": "ITORORÓ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1397672.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291720",
+        "Estado / Município": "ITUAÇU",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1117080.46"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291730",
+        "Estado / Município": "ITUBERÁ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1820048.76"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291733",
+        "Estado / Município": "IUIÚ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "669219.11"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291735",
+        "Estado / Município": "JABORANDI",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "787203.93"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291740",
+        "Estado / Município": "JACARACI",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1019432.86"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291750",
+        "Estado / Município": "JACOBINA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "14838466.60"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291760",
+        "Estado / Município": "JAGUAQUARA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "4852174.80"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291770",
+        "Estado / Município": "JAGUARARI",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2918289.54"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291780",
+        "Estado / Município": "JAGUARIPE",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "350156.45"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291790",
+        "Estado / Município": "JANDAÍRA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291800",
+        "Estado / Município": "JEQUIÉ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "21061037.47"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291810",
+        "Estado / Município": "JEREMOABO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "6263686.31"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291820",
+        "Estado / Município": "JIQUIRIÇÁ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1040417.04"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291830",
+        "Estado / Município": "JITAÚNA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291835",
+        "Estado / Município": "JOÃO DOURADO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1546490.63"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291840",
+        "Estado / Município": "JUAZEIRO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "65637600.52"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291845",
+        "Estado / Município": "JUCURUÇU",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291850",
+        "Estado / Município": "JUSSARA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "204750.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291855",
+        "Estado / Município": "JUSSARI",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291860",
+        "Estado / Município": "JUSSIAPE",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "828750.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291870",
+        "Estado / Município": "LAFAIETE COUTINHO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "341936.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291875",
+        "Estado / Município": "LAGOA REAL",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "204750.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291880",
+        "Estado / Município": "LAJE",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2972272.02"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291890",
+        "Estado / Município": "LAJEDÃO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "351574.64"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291900",
+        "Estado / Município": "LAJEDINHO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291905",
+        "Estado / Município": "LAJEDO DO TABOCAL",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291910",
+        "Estado / Município": "LAMARÃO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "341936.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291915",
+        "Estado / Município": "LAPÃO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1718190.46"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291920",
+        "Estado / Município": "LAURO DE FREITAS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "15651524.59"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291930",
+        "Estado / Município": "LENÇÓIS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "852403.76"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291940",
+        "Estado / Município": "LICÍNIO DE ALMEIDA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291950",
+        "Estado / Município": "LIVRAMENTO DE NOSSA SENHORA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "6537343.64"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291955",
+        "Estado / Município": "LUÍS EDUARDO MAGALHÃES",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "9560243.18"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291960",
+        "Estado / Município": "MACAJUBA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "480806.94"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291970",
+        "Estado / Município": "MACARANI",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "773672.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291980",
+        "Estado / Município": "MACAÚBAS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "9213452.98"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291990",
+        "Estado / Município": "MACURURÉ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "441292.98"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291992",
+        "Estado / Município": "MADRE DE DEUS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "3302970.98"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "291995",
+        "Estado / Município": "MAETINGA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1001601.70"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292000",
+        "Estado / Município": "MAIQUINIQUE",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292010",
+        "Estado / Município": "MAIRI",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1397672.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292020",
+        "Estado / Município": "MALHADA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "882553.33"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292030",
+        "Estado / Município": "MALHADA DE PEDRAS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "204750.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292040",
+        "Estado / Município": "MANOEL VITORINO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "341936.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292045",
+        "Estado / Município": "MANSIDÃO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "341936.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292050",
+        "Estado / Município": "MARACÁS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "3461979.34"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292060",
+        "Estado / Município": "MARAGOGIPE",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "3393851.65"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292070",
+        "Estado / Município": "MARAÚ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292080",
+        "Estado / Município": "MARCIONÍLIO SOUZA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292090",
+        "Estado / Município": "MASCOTE",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292100",
+        "Estado / Município": "MATA DE SÃO JOÃO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "3721129.86"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292105",
+        "Estado / Município": "MATINA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "717216.73"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292110",
+        "Estado / Município": "MEDEIROS NETO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "3240444.10"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292120",
+        "Estado / Município": "MIGUEL CALMON",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1055736.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292130",
+        "Estado / Município": "MILAGRES",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "920269.05"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292140",
+        "Estado / Município": "MIRANGABA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "752990.50"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292145",
+        "Estado / Município": "MIRANTE",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "284467.21"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292150",
+        "Estado / Município": "MONTE SANTO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "8931304.84"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292160",
+        "Estado / Município": "MORPARÁ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "341936.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292170",
+        "Estado / Município": "MORRO DO CHAPÉU",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "6020278.78"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292180",
+        "Estado / Município": "MORTUGABA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "204750.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292190",
+        "Estado / Município": "MUCUGÊ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "431736.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292200",
+        "Estado / Município": "MUCURI",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "3537354.02"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292205",
+        "Estado / Município": "MULUNGU DO MORRO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1223699.41"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292210",
+        "Estado / Município": "MUNDO NOVO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1980946.77"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292220",
+        "Estado / Município": "MUNIZ FERREIRA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292225",
+        "Estado / Município": "MUQUÉM DE SÃO FRANCISCO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "341936.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292230",
+        "Estado / Município": "MURITIBA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "3099953.41"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292240",
+        "Estado / Município": "MUTUÍPE",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "773672.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292250",
+        "Estado / Município": "NAZARÉ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "773672.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292260",
+        "Estado / Município": "NILO PEÇANHA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292265",
+        "Estado / Município": "NORDESTINA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1018360.16"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292270",
+        "Estado / Município": "NOVA CANAÃ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "575736.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292273",
+        "Estado / Município": "NOVA FÁTIMA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292275",
+        "Estado / Município": "NOVA IBIÁ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292280",
+        "Estado / Município": "NOVA ITARANA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "365025.62"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292285",
+        "Estado / Município": "NOVA REDENÇÃO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292290",
+        "Estado / Município": "NOVA SOURE",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "5218148.12"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292300",
+        "Estado / Município": "NOVA VIÇOSA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "3428076.08"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292303",
+        "Estado / Município": "NOVO HORIZONTE",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "431736.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292305",
+        "Estado / Município": "NOVO TRIUNFO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "53802.39"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292310",
+        "Estado / Município": "OLINDINA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2300796.79"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292320",
+        "Estado / Município": "OLIVEIRA DOS BREJINHOS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2104615.78"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292330",
+        "Estado / Município": "OURIÇANGAS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "302963.57"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292335",
+        "Estado / Município": "OUROLÂNDIA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292340",
+        "Estado / Município": "PALMAS DE MONTE ALTO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1257378.63"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292350",
+        "Estado / Município": "PALMEIRAS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "431736.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292360",
+        "Estado / Município": "PARAMIRIM",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "9708167.88"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292370",
+        "Estado / Município": "PARATINGA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2935036.42"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292380",
+        "Estado / Município": "PARIPIRANGA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1270519.11"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292390",
+        "Estado / Município": "PAU BRASIL",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292400",
+        "Estado / Município": "PAULO AFONSO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "35367211.27"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292405",
+        "Estado / Município": "PÉ DE SERRA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "431736.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292410",
+        "Estado / Município": "PEDRÃO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292420",
+        "Estado / Município": "PEDRO ALEXANDRE",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "491466.66"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292430",
+        "Estado / Município": "PIATÃ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "431736.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292440",
+        "Estado / Município": "PILÃO ARCADO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1894600.07"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292450",
+        "Estado / Município": "PINDAÍ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1000310.70"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292460",
+        "Estado / Município": "PINDOBAÇU",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2204970.99"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292465",
+        "Estado / Município": "PINTADAS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292467",
+        "Estado / Município": "PIRAÍ DO NORTE",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292470",
+        "Estado / Município": "PIRIPÁ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292480",
+        "Estado / Município": "PIRITIBA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1707314.56"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292490",
+        "Estado / Município": "PLANALTINO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "341936.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292500",
+        "Estado / Município": "PLANALTO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1306840.16"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292510",
+        "Estado / Município": "POÇÕES",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "3687272.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292520",
+        "Estado / Município": "POJUCA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "4258508.89"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292525",
+        "Estado / Município": "PONTO NOVO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1414037.50"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292530",
+        "Estado / Município": "PORTO SEGURO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "18576796.10"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292540",
+        "Estado / Município": "POTIRAGUÁ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292550",
+        "Estado / Município": "PRADO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "4924583.90"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292560",
+        "Estado / Município": "PRESIDENTE DUTRA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "636486.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292570",
+        "Estado / Município": "PRESIDENTE JÂNIO QUADROS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1065817.44"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292575",
+        "Estado / Município": "PRESIDENTE TANCREDO NEVES",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1639939.80"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292580",
+        "Estado / Município": "QUEIMADAS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2148797.37"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292590",
+        "Estado / Município": "QUIJINGUE",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1795752.99"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292593",
+        "Estado / Município": "QUIXABEIRA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292595",
+        "Estado / Município": "RAFAEL JAMBEIRO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1942863.55"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292600",
+        "Estado / Município": "REMANSO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "5953480.02"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292610",
+        "Estado / Município": "RETIROLÂNDIA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "906140.58"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292620",
+        "Estado / Município": "RIACHÃO DAS NEVES",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "341936.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292630",
+        "Estado / Município": "RIACHÃO DO JACUÍPE",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "431736.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292640",
+        "Estado / Município": "RIACHO DE SANTANA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2580847.46"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292650",
+        "Estado / Município": "RIBEIRA DO AMPARO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "469371.17"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292660",
+        "Estado / Município": "RIBEIRA DO POMBAL",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2777868.92"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292665",
+        "Estado / Município": "RIBEIRÃO DO LARGO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292670",
+        "Estado / Município": "RIO DE CONTAS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "204750.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292680",
+        "Estado / Município": "RIO DO ANTÔNIO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "636486.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292690",
+        "Estado / Município": "RIO DO PIRES",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "933888.86"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292700",
+        "Estado / Município": "RIO REAL",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "4805245.84"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292710",
+        "Estado / Município": "RODELAS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "450635.39"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292720",
+        "Estado / Município": "RUY BARBOSA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "431736.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292730",
+        "Estado / Município": "SALINAS DA MARGARIDA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "204750.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292740",
+        "Estado / Município": "SALVADOR",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "719820383.30"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292750",
+        "Estado / Município": "SANTA BÁRBARA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1343587.23"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292760",
+        "Estado / Município": "SANTA BRÍGIDA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "618565.58"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292770",
+        "Estado / Município": "SANTA CRUZ CABRÁLIA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2778287.23"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292780",
+        "Estado / Município": "SANTA CRUZ DA VITÓRIA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292790",
+        "Estado / Município": "SANTA INÊS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1048164.65"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292800",
+        "Estado / Município": "SANTALUZ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "7879178.09"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292805",
+        "Estado / Município": "SANTA LUZIA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292810",
+        "Estado / Município": "SANTA MARIA DA VITÓRIA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "9049940.14"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292820",
+        "Estado / Município": "SANTANA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2022410.39"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292830",
+        "Estado / Município": "SANTANÓPOLIS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292840",
+        "Estado / Município": "SANTA RITA DE CÁSSIA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2149920.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292850",
+        "Estado / Município": "SANTA TERESINHA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "989283.63"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292860",
+        "Estado / Município": "SANTO AMARO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "6155933.83"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292870",
+        "Estado / Município": "SANTO ANTÔNIO DE JESUS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "13448495.83"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292880",
+        "Estado / Município": "SANTO ESTÊVÃO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "3780893.47"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292890",
+        "Estado / Município": "SÃO DESIDÉRIO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2246284.50"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292895",
+        "Estado / Município": "SÃO DOMINGOS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1104251.13"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292900",
+        "Estado / Município": "SÃO FÉLIX",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "14059303.89"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292905",
+        "Estado / Município": "SÃO FÉLIX DO CORIBE",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1411701.83"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292910",
+        "Estado / Município": "SÃO FELIPE",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2689280.07"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292920",
+        "Estado / Município": "SÃO FRANCISCO DO CONDE",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2635676.79"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292925",
+        "Estado / Município": "SÃO GABRIEL",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "431736.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292930",
+        "Estado / Município": "SÃO GONÇALO DOS CAMPOS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2352551.72"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292935",
+        "Estado / Município": "SÃO JOSÉ DA VITÓRIA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292937",
+        "Estado / Município": "SÃO JOSÉ DO JACUÍPE",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292940",
+        "Estado / Município": "SÃO MIGUEL DAS MATAS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "204750.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292950",
+        "Estado / Município": "SÃO SEBASTIÃO DO PASSÉ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "4471531.66"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292960",
+        "Estado / Município": "SAPEAÇU",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2819119.70"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292970",
+        "Estado / Município": "SÁTIRO DIAS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1623296.62"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292975",
+        "Estado / Município": "SAUBARA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292980",
+        "Estado / Município": "SAÚDE",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1312731.02"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "292990",
+        "Estado / Município": "SEABRA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1631736.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293000",
+        "Estado / Município": "SEBASTIÃO LARANJEIRAS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "659338.25"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293010",
+        "Estado / Município": "SENHOR DO BONFIM",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "14003660.84"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293015",
+        "Estado / Município": "SERRA DO RAMALHO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2845644.72"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293020",
+        "Estado / Município": "SENTO SÉ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2437307.67"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293030",
+        "Estado / Município": "SERRA DOURADA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2655841.69"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293040",
+        "Estado / Município": "SERRA PRETA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "960157.65"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293050",
+        "Estado / Município": "SERRINHA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "13528067.83"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293060",
+        "Estado / Município": "SERROLÂNDIA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "966917.58"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293070",
+        "Estado / Município": "SIMÕES FILHO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "9234011.16"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293075",
+        "Estado / Município": "SÍTIO DO MATO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "683744.88"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293076",
+        "Estado / Município": "SÍTIO DO QUINTO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "89534.42"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293077",
+        "Estado / Município": "SOBRADINHO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1556649.50"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293080",
+        "Estado / Município": "SOUTO SOARES",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "431736.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293090",
+        "Estado / Município": "TABOCAS DO BREJO VELHO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "911805.73"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293100",
+        "Estado / Município": "TANHAÇU",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1499572.74"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293105",
+        "Estado / Município": "TANQUE NOVO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1559648.59"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293110",
+        "Estado / Município": "TANQUINHO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293120",
+        "Estado / Município": "TAPEROÁ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "204750.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293130",
+        "Estado / Município": "TAPIRAMUTÁ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1005410.61"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293135",
+        "Estado / Município": "TEIXEIRA DE FREITAS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "51175174.66"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293140",
+        "Estado / Município": "TEODORO SAMPAIO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293150",
+        "Estado / Município": "TEOFILÂNDIA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1397672.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293160",
+        "Estado / Município": "TEOLÂNDIA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "892000.41"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293170",
+        "Estado / Município": "TERRA NOVA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "342428.22"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293180",
+        "Estado / Município": "TREMEDAL",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1572438.59"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293190",
+        "Estado / Município": "TUCANO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "3924064.77"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293200",
+        "Estado / Município": "UAUÁ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1719163.54"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293210",
+        "Estado / Município": "UBAÍRA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2013741.61"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293220",
+        "Estado / Município": "UBAITABA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "636486.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293230",
+        "Estado / Município": "UBATÃ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2416765.68"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293240",
+        "Estado / Município": "UIBAÍ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "431736.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293245",
+        "Estado / Município": "UMBURANAS",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "431736.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293250",
+        "Estado / Município": "UNA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1465236.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293260",
+        "Estado / Município": "URANDI",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1237818.91"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293270",
+        "Estado / Município": "URUÇUCA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1640976.46"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293280",
+        "Estado / Município": "UTINGA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "431736.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293290",
+        "Estado / Município": "VALENÇA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1583022.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293300",
+        "Estado / Município": "VALENTE",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "2387817.37"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293305",
+        "Estado / Município": "VÁRZEA DA ROÇA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "676529.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293310",
+        "Estado / Município": "VÁRZEA DO POÇO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "537948.20"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293315",
+        "Estado / Município": "VÁRZEA NOVA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293317",
+        "Estado / Município": "VARZEDO",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "341936.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293320",
+        "Estado / Município": "VERA CRUZ",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "7337228.45"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293325",
+        "Estado / Município": "VEREDA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "267143.44"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293330",
+        "Estado / Município": "VITÓRIA DA CONQUISTA",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "88497064.66"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293340",
+        "Estado / Município": "WAGNER",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "0.00"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293345",
+        "Estado / Município": "WANDERLEY",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "341936.40"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293350",
+        "Estado / Município": "WENCESLAU GUIMARÃES",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "1670340.11"
+    },
+    {
+        "Região": "NORDESTE",
+        "Sigla UF": "BA",
+        "Código IBGE": "293360",
+        "Estado / Município": "XIQUE-XIQUE",
+        "Código Gestão": "1",
+        "Descrição Gestão": "Gestão Municipal",
+        "Teto Financeiro MAC - Valores Anuais (R$)": "6648985.05"
+    }
+]

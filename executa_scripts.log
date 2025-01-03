@@ -1,0 +1,525 @@
+2024-12-28 12:10:59,844 - INFO - Atualizando municípios para a UF PE...
+2024-12-28 12:11:06,434 - INFO - Iniciando execução de scripts para o município Ribeirão/PE...
+2024-12-28 12:11:06,651 - INFO - Executando script evolucao_mac com parâmetros: ['2611804']
+2024-12-28 12:11:27,181 - INFO - Script evolucao_mac executado com sucesso!
+2024-12-28 12:11:27,181 - INFO - Executando script MacUF com parâmetros: ['2611804']
+2024-12-28 12:11:52,773 - INFO - Script MacUF executado com sucesso!
+2024-12-28 12:11:52,773 - INFO - Executando script analise_teto_mac com parâmetros: ['2611804']
+2024-12-28 12:12:09,573 - INFO - Script analise_teto_mac executado com sucesso!
+2024-12-28 12:12:09,573 - INFO - Executando script BaixaSIA com parâmetros: ['2010', '1', '2024', '12', '2611804']
+2024-12-28 12:13:26,152 - INFO - Script BaixaSIA executado com sucesso!
+2024-12-28 12:13:26,153 - INFO - Executando script BaixaSIH com parâmetros: ['2010', '1', '2024', '12', '2611804']
+2024-12-28 12:14:03,783 - INFO - Script BaixaSIH executado com sucesso!
+2024-12-28 12:14:03,783 - INFO - Executando script Faixa com parâmetros: ['2611804']
+2024-12-28 12:14:17,547 - INFO - Script Faixa executado com sucesso!
+2024-12-28 12:14:17,547 - INFO - Executando script Econo com parâmetros: ['2611804', 'Ribeirão']
+2024-12-28 12:14:48,816 - INFO - Script Econo executado com sucesso!
+2024-12-28 12:14:48,816 - INFO - Executando script Resumo_PT com parâmetros: []
+2024-12-28 12:14:49,482 - INFO - Script Resumo_PT executado com sucesso!
+2024-12-28 12:14:49,483 - INFO - Executando script Analise MAC com parâmetros: ['Ribeirão']
+2024-12-28 12:15:05,596 - INFO - Script Analise MAC executado com sucesso!
+2024-12-28 12:15:05,596 - INFO - Executando script Analise MAC_SIH com parâmetros: ['Ribeirão']
+2024-12-28 12:15:22,365 - INFO - Script Analise MAC_SIH executado com sucesso!
+2024-12-28 12:15:22,365 - INFO - Executando script Analise MAC_SIA com parâmetros: ['Ribeirão']
+2024-12-28 12:15:37,597 - INFO - Script Analise MAC_SIA executado com sucesso!
+2024-12-28 12:15:37,597 - INFO - Todos os scripts foram executados com sucesso!
+2024-12-28 12:21:12,295 - INFO - Atualizando municípios para a UF PE...
+2024-12-28 12:21:19,621 - INFO - Iniciando execução de scripts para o município Ribeirão/PE...
+2024-12-28 12:21:19,820 - INFO - Executando script Econo com parâmetros: ['2611804', 'Ribeirão']
+2024-12-28 12:21:38,522 - INFO - Script Econo executado com sucesso!
+2024-12-28 18:47:15,453 - INFO - Atualizando municípios para a UF ES...
+2024-12-28 18:49:43,343 - INFO - Atualizando municípios para a UF ES...
+2024-12-28 18:49:49,349 - INFO - Iniciando execução de scripts para o município Guarapari/ES...
+2024-12-28 18:49:49,533 - INFO - Executando script evolucao_mac com parâmetros: ['3202405']
+2024-12-28 18:50:05,955 - INFO - Script evolucao_mac executado com sucesso!
+2024-12-28 18:50:05,956 - INFO - Executando script MacUF com parâmetros: ['3202405']
+2024-12-28 18:50:24,470 - INFO - Script MacUF executado com sucesso!
+2024-12-28 18:50:24,471 - INFO - Executando script analise_teto_mac com parâmetros: ['3202405']
+2024-12-28 18:51:05,953 - INFO - Script analise_teto_mac executado com sucesso!
+2024-12-28 18:51:05,954 - INFO - Executando script BaixaSIA com parâmetros: ['2010', '1', '2024', '12', '3202405']
+2024-12-28 18:52:15,914 - INFO - Script BaixaSIA executado com sucesso!
+2024-12-28 18:52:15,915 - INFO - Executando script BaixaSIH com parâmetros: ['2010', '1', '2024', '12', '3202405']
+2024-12-28 18:52:53,566 - INFO - Script BaixaSIH executado com sucesso!
+2024-12-28 18:52:53,566 - INFO - Executando script Faixa com parâmetros: ['3202405']
+2024-12-28 18:53:04,322 - INFO - Script Faixa executado com sucesso!
+2024-12-28 18:53:04,322 - INFO - Executando script Econo com parâmetros: ['3202405', 'Guarapari']
+2024-12-28 18:53:23,600 - INFO - Script Econo executado com sucesso!
+2024-12-28 18:53:23,601 - INFO - Executando script Resumo_PT com parâmetros: []
+2024-12-28 18:53:24,180 - INFO - Script Resumo_PT executado com sucesso!
+2024-12-28 18:53:24,181 - INFO - Executando script Analise MAC com parâmetros: ['Guarapari']
+2024-12-28 18:53:39,806 - INFO - Script Analise MAC executado com sucesso!
+2024-12-28 18:53:39,806 - INFO - Executando script Analise MAC_SIH com parâmetros: ['Guarapari']
+2024-12-28 18:53:54,889 - INFO - Script Analise MAC_SIH executado com sucesso!
+2024-12-28 18:53:54,889 - INFO - Executando script Analise MAC_SIA com parâmetros: ['Guarapari']
+2024-12-28 18:54:10,078 - INFO - Script Analise MAC_SIA executado com sucesso!
+2024-12-28 18:54:10,078 - INFO - Executando script Analise Correlações com parâmetros: []
+2024-12-28 18:54:51,995 - INFO - Script Analise Correlações executado com sucesso!
+2024-12-28 18:54:51,995 - INFO - Todos os scripts foram executados com sucesso!
+2024-12-28 20:01:44,372 - INFO - Atualizando municípios para a UF ES...
+2024-12-28 20:01:50,401 - INFO - Iniciando execução de scripts para o município Guarapari/ES...
+2024-12-28 20:01:50,587 - INFO - Executando script BaixaSIH com parâmetros: ['2012', '1', '2024', '12', '3202405']
+2024-12-28 20:02:23,292 - INFO - Script BaixaSIH executado com sucesso!
+2024-12-28 20:02:23,292 - INFO - Todos os scripts foram executados com sucesso!
+2024-12-28 20:15:55,261 - INFO - Atualizando municípios para a UF ES...
+2024-12-28 20:16:00,780 - INFO - Iniciando execução de scripts para o município Cachoeiro de Itapemirim/ES...
+2024-12-28 20:16:00,972 - INFO - Executando script evolucao_mac com parâmetros: ['3201209']
+2024-12-28 20:16:17,726 - INFO - Script evolucao_mac executado com sucesso!
+2024-12-28 20:16:17,727 - INFO - Executando script MacUF com parâmetros: ['3201209']
+2024-12-28 20:16:36,808 - INFO - Script MacUF executado com sucesso!
+2024-12-28 20:16:36,809 - INFO - Executando script analise_teto_mac com parâmetros: ['3201209']
+2024-12-28 20:31:37,305 - INFO - Iniciando execução de scripts para o município Ibotirama/BA...
+2024-12-28 20:31:37,516 - INFO - Executando script evolucao_mac com parâmetros: ['2913200']
+2024-12-28 20:33:40,678 - INFO - Iniciando execução de scripts para o município Ibotirama/BA...
+2024-12-28 20:33:40,887 - INFO - Executando script evolucao_mac com parâmetros: ['2913200']
+2024-12-28 20:35:03,539 - INFO - Iniciando execução de scripts para o município Ibotirama/BA...
+2024-12-28 20:35:03,750 - INFO - Executando script evolucao_mac com parâmetros: ['2913200']
+2024-12-28 20:35:20,212 - INFO - Script evolucao_mac executado com sucesso!
+2024-12-28 20:35:20,213 - INFO - Executando script MacUF com parâmetros: ['2913200']
+2024-12-28 20:35:58,185 - INFO - Script MacUF executado com sucesso!
+2024-12-28 20:35:58,186 - INFO - Executando script analise_teto_mac com parâmetros: ['2913200']
+2024-12-28 20:39:47,964 - INFO - Iniciando execução de scripts para o município Ibotirama/BA...
+2024-12-28 20:39:48,158 - INFO - Executando script evolucao_mac com parâmetros: ['2913200']
+2024-12-28 20:42:38,446 - INFO - Iniciando execução de scripts para o município Ibotirama/BA...
+2024-12-28 20:42:38,651 - INFO - Executando script evolucao_mac com parâmetros: ['2913200']
+2024-12-28 20:42:55,409 - INFO - Script evolucao_mac executado com sucesso!
+2024-12-28 20:44:14,377 - INFO - Iniciando execução de scripts para o município Acrelândia/AC...
+2024-12-28 20:44:14,571 - INFO - Executando script evolucao_mac com parâmetros: ['1200013']
+2024-12-28 20:44:30,950 - INFO - Script evolucao_mac executado com sucesso!
+2024-12-28 20:44:30,952 - INFO - Executando script MacUF com parâmetros: ['1200013']
+2024-12-28 20:46:14,935 - INFO - Iniciando execução de scripts para o município Acrelândia/AC...
+2024-12-28 20:46:15,121 - INFO - Executando script evolucao_mac com parâmetros: ['1200013']
+2024-12-28 20:46:32,233 - INFO - Script evolucao_mac executado com sucesso!
+2024-12-28 20:46:32,234 - INFO - Executando script MacUF com parâmetros: ['1200013']
+2024-12-28 20:46:47,828 - INFO - Script MacUF executado com sucesso!
+2024-12-28 20:46:47,830 - INFO - Executando script analise_teto_mac com parâmetros: ['1200013']
+2024-12-28 20:47:32,812 - INFO - Iniciando execução de scripts para o município Ibotirama/BA...
+2024-12-28 20:47:33,020 - INFO - Executando script evolucao_mac com parâmetros: ['2913200']
+2024-12-28 20:47:49,455 - INFO - Script evolucao_mac executado com sucesso!
+2024-12-28 20:47:49,455 - INFO - Executando script MacUF com parâmetros: ['2913200']
+2024-12-28 20:48:29,004 - INFO - Script MacUF executado com sucesso!
+2024-12-28 20:48:29,005 - INFO - Executando script analise_teto_mac com parâmetros: ['2913200']
+2024-12-28 20:48:48,636 - INFO - Script analise_teto_mac executado com sucesso!
+2024-12-28 20:48:48,639 - INFO - Executando script BaixaSIA com parâmetros: ['2012', '1', '2024', '12', '2913200']
+2024-12-28 20:49:44,555 - INFO - Iniciando execução de scripts para o município Ibotirama/BA...
+2024-12-28 20:49:44,740 - INFO - Executando script evolucao_mac com parâmetros: ['2913200']
+2024-12-28 20:50:02,088 - INFO - Script evolucao_mac executado com sucesso!
+2024-12-28 20:50:02,089 - INFO - Executando script MacUF com parâmetros: ['2913200']
+2024-12-28 20:51:40,016 - INFO - Iniciando execução de scripts para o município Ibotirama/BA...
+2024-12-28 20:51:40,233 - INFO - Executando script evolucao_mac com parâmetros: ['2913200']
+2024-12-28 20:51:56,911 - INFO - Script evolucao_mac executado com sucesso!
+2024-12-28 20:51:56,913 - INFO - Executando script MacUF com parâmetros: ['2913200']
+2024-12-28 20:53:04,999 - INFO - Iniciando execução de scripts para o município Acrelândia/AC...
+2024-12-28 20:53:05,238 - INFO - Executando script evolucao_mac com parâmetros: ['1200013']
+2024-12-28 20:53:22,134 - INFO - Script evolucao_mac executado com sucesso!
+2024-12-28 20:53:22,135 - INFO - Executando script MacUF com parâmetros: ['1200013']
+2024-12-28 20:55:54,141 - INFO - Iniciando execução de scripts para o município Acrelândia/AC...
+2024-12-28 20:55:54,360 - INFO - Executando script evolucao_mac com parâmetros: ['1200013']
+2024-12-28 20:57:29,366 - INFO - Iniciando execução de scripts para o município Ibotirama/BA...
+2024-12-28 20:57:29,602 - INFO - Executando script evolucao_mac com parâmetros: ['2913200']
+2024-12-28 21:00:38,101 - INFO - Iniciando execução de scripts para o município Acrelândia/AC...
+2024-12-28 21:00:38,283 - INFO - Executando script evolucao_mac com parâmetros: ['1200013']
+2024-12-28 21:04:30,161 - INFO - Iniciando execução de scripts para o município Acrelândia/AC...
+2024-12-28 21:04:30,368 - INFO - Executando script evolucao_mac com parâmetros: ['1200013']
+2024-12-28 21:05:18,821 - INFO - Iniciando execução de scripts para o município Acrelândia/AC...
+2024-12-28 21:05:19,024 - INFO - Executando script evolucao_mac com parâmetros: ['1200013']
+2024-12-28 21:06:42,868 - INFO - Iniciando execução de scripts para o município Acrelândia/AC...
+2024-12-28 21:06:43,051 - INFO - Executando script evolucao_mac com parâmetros: ['1200013']
+2024-12-28 21:06:59,668 - INFO - Script evolucao_mac executado com sucesso!
+2024-12-28 21:06:59,669 - INFO - Executando script MacUF com parâmetros: ['1200013']
+2024-12-28 21:07:14,032 - INFO - Script MacUF executado com sucesso!
+2024-12-28 21:07:14,033 - INFO - Executando script analise_teto_mac com parâmetros: ['1200013']
+2024-12-28 21:10:20,601 - INFO - Iniciando execução de scripts para o município Abaíra/BA...
+2024-12-28 21:10:20,811 - INFO - Executando script evolucao_mac com parâmetros: ['2900108']
+2024-12-28 21:10:59,894 - INFO - Iniciando execução de scripts para o município Ibotirama/BA...
+2024-12-28 21:11:00,088 - INFO - Executando script evolucao_mac com parâmetros: ['2913200']
+2024-12-28 21:11:16,984 - INFO - Script evolucao_mac executado com sucesso!
+2024-12-28 21:11:16,985 - INFO - Executando script MacUF com parâmetros: ['2913200']
+2024-12-28 21:11:55,177 - INFO - Script MacUF executado com sucesso!
+2024-12-28 21:11:55,178 - INFO - Executando script analise_teto_mac com parâmetros: ['2913200']
+2024-12-28 21:12:36,944 - INFO - Script analise_teto_mac executado com sucesso!
+2024-12-28 21:12:36,946 - INFO - Executando script BaixaSIA com parâmetros: ['2012', '1', '2024', '12', '2913200']
+2024-12-28 21:15:19,127 - ERROR - Erro ao executar o script BaixaSIA.
+2024-12-28 21:15:19,128 - ERROR - Código de retorno: 1
+2024-12-28 21:15:19,128 - INFO - Executando script BaixaSIH com parâmetros: ['2012', '1', '2024', '12', '2913200']
+2024-12-28 21:15:57,786 - INFO - Script BaixaSIH executado com sucesso!
+2024-12-28 21:15:57,786 - INFO - Executando script Faixa com parâmetros: ['2913200']
+2024-12-28 21:16:08,372 - INFO - Script Faixa executado com sucesso!
+2024-12-28 21:16:08,373 - INFO - Executando script Econo com parâmetros: ['2913200', 'Ibotirama']
+2024-12-28 21:16:27,920 - INFO - Script Econo executado com sucesso!
+2024-12-28 21:16:27,922 - INFO - Executando script Resumo_PT com parâmetros: []
+2024-12-28 21:16:28,553 - INFO - Script Resumo_PT executado com sucesso!
+2024-12-28 21:16:28,554 - INFO - Executando script Analise MAC com parâmetros: ['Ibotirama']
+2024-12-28 21:16:45,626 - INFO - Script Analise MAC executado com sucesso!
+2024-12-28 21:16:45,626 - INFO - Executando script Analise MAC_SIH com parâmetros: ['Ibotirama']
+2024-12-28 21:17:00,634 - INFO - Script Analise MAC_SIH executado com sucesso!
+2024-12-28 21:17:00,635 - INFO - Executando script Analise MAC_SIA com parâmetros: ['Ibotirama']
+2024-12-28 21:17:15,953 - INFO - Script Analise MAC_SIA executado com sucesso!
+2024-12-28 21:17:15,954 - INFO - Executando script Analise Correlações com parâmetros: []
+2024-12-28 21:17:49,451 - INFO - Script Analise Correlações executado com sucesso!
+2024-12-28 21:27:50,571 - INFO - Atualizando municípios para a UF BA...
+2024-12-28 21:28:00,682 - INFO - Iniciando execução de scripts para o município Ibotirama/BA...
+2024-12-28 21:28:00,883 - INFO - Executando script BaixaSIA com parâmetros: ['2012', '1', '2024', '12', '2913200']
+2024-12-28 21:28:42,896 - INFO - Script BaixaSIA executado com sucesso!
+2024-12-28 21:28:42,897 - INFO - Executando script Analise MAC_SIA com parâmetros: ['Ibotirama']
+2024-12-28 21:28:58,042 - INFO - Script Analise MAC_SIA executado com sucesso!
+2024-12-28 21:28:58,042 - INFO - Executando script Analise Correlações com parâmetros: []
+2024-12-28 21:29:26,563 - INFO - Script Analise Correlações executado com sucesso!
+2024-12-28 21:29:26,563 - INFO - Todos os scripts foram executados com sucesso!
+2024-12-28 21:31:25,632 - INFO - Iniciando execução de scripts para o município Ibotirama/BA...
+2024-12-28 21:31:25,837 - INFO - Executando script evolucao_mac com parâmetros: ['2913200']
+2024-12-28 21:31:42,578 - INFO - Script evolucao_mac executado com sucesso!
+2024-12-28 21:31:42,578 - INFO - Executando script MacUF com parâmetros: ['2913200']
+2024-12-28 21:32:22,152 - INFO - Script MacUF executado com sucesso!
+2024-12-28 21:32:22,152 - INFO - Executando script analise_teto_mac com parâmetros: ['2913200']
+2024-12-28 21:32:41,372 - INFO - Script analise_teto_mac executado com sucesso!
+2024-12-28 21:32:41,372 - INFO - Executando script BaixaSIA com parâmetros: ['2012', '1', '2024', '12', '2913200']
+2024-12-28 21:33:21,113 - INFO - Script BaixaSIA executado com sucesso!
+2024-12-28 21:33:21,113 - INFO - Executando script BaixaSIH com parâmetros: ['2012', '1', '2024', '12', '2913200']
+2024-12-28 21:33:52,307 - INFO - Script BaixaSIH executado com sucesso!
+2024-12-28 21:33:52,307 - INFO - Executando script Faixa com parâmetros: ['2913200']
+2024-12-28 21:34:02,887 - INFO - Script Faixa executado com sucesso!
+2024-12-28 21:34:02,887 - INFO - Executando script Econo com parâmetros: ['2913200', 'Ibotirama']
+2024-12-28 21:34:22,801 - INFO - Script Econo executado com sucesso!
+2024-12-28 21:34:22,801 - INFO - Executando script Resumo_PT com parâmetros: []
+2024-12-28 21:34:23,355 - INFO - Script Resumo_PT executado com sucesso!
+2024-12-28 21:34:23,355 - INFO - Executando script Analise MAC com parâmetros: ['Ibotirama']
+2024-12-28 21:34:31,669 - INFO - Script Analise MAC executado com sucesso!
+2024-12-28 21:34:31,669 - INFO - Executando script Analise MAC_SIH com parâmetros: ['Ibotirama']
+2024-12-28 21:34:46,534 - INFO - Script Analise MAC_SIH executado com sucesso!
+2024-12-28 21:34:46,534 - INFO - Executando script Analise MAC_SIA com parâmetros: ['Ibotirama']
+2024-12-28 21:35:01,888 - INFO - Script Analise MAC_SIA executado com sucesso!
+2024-12-28 21:35:01,889 - INFO - Executando script Analise Correlações com parâmetros: []
+2024-12-28 21:35:38,635 - INFO - Script Analise Correlações executado com sucesso!
+2024-12-28 21:35:38,635 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2024-12-28 21:40:40,909 - INFO - Iniciando execução de scripts para o município Ibotirama/BA...
+2024-12-28 21:40:41,106 - INFO - Executando script Analise MAC_SIH com parâmetros: ['Ibotirama']
+2024-12-28 21:40:58,194 - INFO - Script Analise MAC_SIH executado com sucesso!
+2024-12-28 21:40:58,194 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2024-12-28 21:43:32,586 - INFO - Iniciando execução de scripts para o município Ibotirama/BA...
+2024-12-28 21:43:32,788 - INFO - Executando script Analise MAC_SIH com parâmetros: ['Ibotirama']
+2024-12-28 21:43:48,843 - INFO - Script Analise MAC_SIH executado com sucesso!
+2024-12-28 21:43:48,844 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2024-12-28 21:47:31,894 - INFO - Iniciando execução de scripts para o município Ibotirama/BA...
+2024-12-28 21:47:32,103 - INFO - Executando script Analise MAC_SIH com parâmetros: ['Ibotirama']
+2024-12-28 21:47:45,422 - INFO - Script Analise MAC_SIH executado com sucesso!
+2024-12-28 21:47:45,423 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2024-12-29 19:15:57,377 - INFO - Iniciando execução de scripts para o município Cachoeiro de Itapemirim/ES...
+2024-12-29 19:15:57,665 - INFO - Executando script Analise MAC_SIH com parâmetros: ['Cachoeiro de Itapemirim']
+2024-12-29 19:16:15,746 - INFO - Script Analise MAC_SIH executado com sucesso!
+2024-12-29 19:16:15,747 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2024-12-29 19:17:35,396 - INFO - Iniciando execução de scripts para o município Cachoeiro de Itapemirim/ES...
+2024-12-29 19:17:35,620 - INFO - Executando script Analise MAC_SIH com parâmetros: ['Cachoeiro de Itapemirim']
+2024-12-29 19:17:51,261 - INFO - Script Analise MAC_SIH executado com sucesso!
+2024-12-29 19:17:51,261 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2024-12-29 19:47:50,762 - INFO - Iniciando execução de scripts para o município Cachoeiro de Itapemirim/ES...
+2024-12-29 19:47:50,963 - INFO - Executando script Analise MAC_SIH com parâmetros: ['Cachoeiro de Itapemirim']
+2024-12-29 19:48:04,645 - INFO - Script Analise MAC_SIH executado com sucesso!
+2024-12-29 19:48:04,645 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2024-12-29 19:48:44,954 - INFO - Iniciando execução de scripts para o município Cachoeiro de Itapemirim/ES...
+2024-12-29 19:48:45,154 - INFO - Executando script evolucao_mac com parâmetros: ['3201209']
+2024-12-29 19:49:33,234 - INFO - Script evolucao_mac executado com sucesso!
+2024-12-29 19:49:33,234 - INFO - Executando script MacUF com parâmetros: ['3201209']
+2024-12-29 19:49:52,940 - INFO - Script MacUF executado com sucesso!
+2024-12-29 19:49:52,940 - INFO - Executando script analise_teto_mac com parâmetros: ['3201209']
+2024-12-29 19:50:12,977 - INFO - Script analise_teto_mac executado com sucesso!
+2024-12-29 19:50:12,977 - INFO - Executando script BaixaSIA com parâmetros: ['2012', '1', '2024', '12', '3201209']
+2024-12-29 19:51:34,032 - INFO - Script BaixaSIA executado com sucesso!
+2024-12-29 19:51:34,033 - INFO - Executando script BaixaSIH com parâmetros: ['2012', '1', '2024', '12', '3201209']
+2024-12-29 19:52:14,651 - INFO - Script BaixaSIH executado com sucesso!
+2024-12-29 19:52:14,651 - INFO - Executando script Faixa com parâmetros: ['3201209']
+2024-12-29 19:52:28,718 - INFO - Script Faixa executado com sucesso!
+2024-12-29 19:52:28,719 - INFO - Executando script Econo com parâmetros: ['3201209', 'Cachoeiro de Itapemirim']
+2024-12-29 19:52:51,615 - INFO - Script Econo executado com sucesso!
+2024-12-29 19:52:51,615 - INFO - Executando script Resumo_PT com parâmetros: []
+2024-12-29 19:52:52,340 - INFO - Script Resumo_PT executado com sucesso!
+2024-12-29 19:52:52,341 - INFO - Executando script Analise MAC com parâmetros: ['Cachoeiro de Itapemirim']
+2024-12-29 19:53:00,257 - INFO - Script Analise MAC executado com sucesso!
+2024-12-29 19:53:00,258 - INFO - Executando script Analise MAC_SIH com parâmetros: ['Cachoeiro de Itapemirim']
+2024-12-29 19:53:14,610 - INFO - Script Analise MAC_SIH executado com sucesso!
+2024-12-29 19:53:14,610 - INFO - Executando script Analise MAC_SIA com parâmetros: ['Cachoeiro de Itapemirim']
+2024-12-29 19:53:29,662 - INFO - Script Analise MAC_SIA executado com sucesso!
+2024-12-29 19:53:29,662 - INFO - Executando script Analise Correlações com parâmetros: []
+2024-12-29 19:54:08,544 - INFO - Script Analise Correlações executado com sucesso!
+2024-12-29 19:54:08,545 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2024-12-29 20:10:25,725 - INFO - Iniciando execução de scripts para o município Cachoeiro de Itapemirim/ES...
+2024-12-29 20:10:25,918 - INFO - Executando script evolucao_mac2 com parâmetros: ['3201209']
+2024-12-29 20:10:41,902 - INFO - Script evolucao_mac2 executado com sucesso!
+2024-12-29 20:10:41,902 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2024-12-29 20:13:20,912 - INFO - Iniciando execução de scripts para o município Cachoeiro de Itapemirim/ES...
+2024-12-29 20:13:21,083 - INFO - Executando script evolucao_mac2 com parâmetros: ['3201209']
+2024-12-29 20:13:36,173 - INFO - Script evolucao_mac2 executado com sucesso!
+2024-12-29 20:13:36,174 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2024-12-29 20:16:54,364 - INFO - Iniciando execução de scripts para o município Cachoeiro de Itapemirim/ES...
+2024-12-29 20:16:54,546 - INFO - Executando script evolucao_mac2 com parâmetros: ['3201209']
+2024-12-29 20:17:10,600 - INFO - Script evolucao_mac2 executado com sucesso!
+2024-12-29 20:17:10,601 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2024-12-29 20:19:53,707 - INFO - Iniciando execução de scripts para o município Cachoeiro de Itapemirim/ES...
+2024-12-29 20:19:53,887 - INFO - Executando script evolucao_mac2 com parâmetros: ['3201209']
+2024-12-29 20:20:09,283 - INFO - Script evolucao_mac2 executado com sucesso!
+2024-12-29 20:20:09,283 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2024-12-29 20:21:04,693 - INFO - Iniciando execução de scripts para o município Cachoeiro de Itapemirim/ES...
+2024-12-29 20:21:04,881 - INFO - Executando script evolucao_mac2 com parâmetros: ['3201209']
+2024-12-29 20:21:20,896 - INFO - Script evolucao_mac2 executado com sucesso!
+2024-12-29 20:21:20,896 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2024-12-29 20:23:03,706 - INFO - Iniciando execução de scripts para o município Cachoeiro de Itapemirim/ES...
+2024-12-29 20:23:03,893 - INFO - Executando script evolucao_mac2 com parâmetros: ['3201209']
+2024-12-29 20:23:19,263 - INFO - Script evolucao_mac2 executado com sucesso!
+2024-12-29 20:23:19,264 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2024-12-29 20:26:33,535 - INFO - Iniciando execução de scripts para o município Cachoeiro de Itapemirim/ES...
+2024-12-29 20:26:33,723 - INFO - Executando script evolucao_mac2 com parâmetros: ['3201209']
+2024-12-29 20:26:49,287 - INFO - Script evolucao_mac2 executado com sucesso!
+2024-12-29 20:26:49,288 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2024-12-29 20:28:36,042 - INFO - Iniciando execução de scripts para o município Cachoeiro de Itapemirim/ES...
+2024-12-29 20:28:36,244 - INFO - Executando script evolucao_mac2 com parâmetros: ['3201209']
+2024-12-29 20:28:51,678 - INFO - Script evolucao_mac2 executado com sucesso!
+2024-12-29 20:28:51,678 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2024-12-29 20:32:17,321 - INFO - Iniciando execução de scripts para o município Cachoeiro de Itapemirim/ES...
+2024-12-29 20:32:17,492 - INFO - Executando script evolucao_mac2 com parâmetros: ['3201209']
+2024-12-29 20:32:32,857 - INFO - Script evolucao_mac2 executado com sucesso!
+2024-12-29 20:32:32,858 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2024-12-29 20:37:22,983 - INFO - Iniciando execução de scripts para o município Cachoeiro de Itapemirim/ES...
+2024-12-29 20:37:23,171 - INFO - Executando script evolucao_mac com parâmetros: ['3201209']
+2024-12-29 20:37:39,909 - INFO - Script evolucao_mac executado com sucesso!
+2024-12-29 20:37:39,909 - INFO - Executando script evolucao_mac2 com parâmetros: ['3201209']
+2024-12-29 20:37:55,162 - INFO - Script evolucao_mac2 executado com sucesso!
+2024-12-29 20:37:55,162 - INFO - Executando script MacUF com parâmetros: ['3201209']
+2024-12-29 20:38:14,250 - INFO - Script MacUF executado com sucesso!
+2024-12-29 20:38:14,250 - INFO - Executando script analise_teto_mac com parâmetros: ['3201209']
+2024-12-29 20:38:34,143 - INFO - Script analise_teto_mac executado com sucesso!
+2024-12-29 20:38:34,143 - INFO - Executando script BaixaSIA com parâmetros: ['2012', '1', '2025', '12', '3201209']
+2024-12-29 20:39:31,022 - INFO - Script BaixaSIA executado com sucesso!
+2024-12-29 20:39:31,023 - INFO - Executando script BaixaSIH com parâmetros: ['2012', '1', '2025', '12', '3201209']
+2024-12-29 20:40:07,645 - INFO - Script BaixaSIH executado com sucesso!
+2024-12-29 20:40:07,645 - INFO - Executando script Faixa com parâmetros: ['3201209']
+2024-12-29 20:40:18,008 - INFO - Script Faixa executado com sucesso!
+2024-12-29 20:40:18,009 - INFO - Executando script Econo com parâmetros: ['3201209', 'Cachoeiro de Itapemirim']
+2024-12-29 20:40:36,234 - INFO - Script Econo executado com sucesso!
+2024-12-29 20:40:36,234 - ERROR - Script R não encontrado.
+2024-12-29 20:40:36,234 - INFO - Executando script Analise MAC com parâmetros: ['Cachoeiro de Itapemirim']
+2024-12-29 20:40:45,043 - INFO - Script Analise MAC executado com sucesso!
+2024-12-29 20:40:45,043 - INFO - Executando script Analise MAC_SIH com parâmetros: ['Cachoeiro de Itapemirim']
+2024-12-29 20:40:59,251 - INFO - Script Analise MAC_SIH executado com sucesso!
+2024-12-29 20:40:59,251 - INFO - Executando script Analise MAC_SIA com parâmetros: ['Cachoeiro de Itapemirim']
+2024-12-29 20:41:14,257 - INFO - Script Analise MAC_SIA executado com sucesso!
+2024-12-29 20:41:14,258 - ERROR - Script A não encontrado.
+2024-12-29 20:41:14,258 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2024-12-29 20:48:58,373 - INFO - Iniciando execução de scripts para o município Cachoeiro de Itapemirim/ES...
+2024-12-29 20:48:58,579 - INFO - Executando script evolucao_mac com parâmetros: ['3201209']
+2024-12-29 20:49:15,667 - INFO - Script evolucao_mac executado com sucesso!
+2024-12-29 20:49:15,668 - INFO - Executando script evolucao_mac2 com parâmetros: ['3201209']
+2024-12-29 20:49:31,515 - INFO - Script evolucao_mac2 executado com sucesso!
+2024-12-29 20:49:31,516 - INFO - Executando script MacUF com parâmetros: ['3201209']
+2024-12-29 20:49:51,018 - INFO - Script MacUF executado com sucesso!
+2024-12-29 20:49:51,018 - INFO - Executando script analise_teto_mac com parâmetros: ['3201209']
+2024-12-29 20:50:10,680 - INFO - Script analise_teto_mac executado com sucesso!
+2024-12-29 20:50:10,680 - INFO - Executando script BaixaSIA com parâmetros: ['2012', '1', '2025', '12', '3201209']
+2024-12-29 20:51:01,126 - INFO - Script BaixaSIA executado com sucesso!
+2024-12-29 20:51:01,126 - INFO - Executando script BaixaSIH com parâmetros: ['2012', '1', '2025', '12', '3201209']
+2024-12-29 20:51:36,827 - INFO - Script BaixaSIH executado com sucesso!
+2024-12-29 20:51:36,827 - INFO - Executando script Faixa com parâmetros: ['3201209']
+2024-12-29 20:51:47,143 - INFO - Script Faixa executado com sucesso!
+2024-12-29 20:51:47,144 - INFO - Executando script Econo com parâmetros: ['3201209', 'Cachoeiro de Itapemirim']
+2024-12-29 20:52:05,393 - INFO - Script Econo executado com sucesso!
+2024-12-29 20:52:05,393 - ERROR - Script R não encontrado.
+2024-12-29 20:52:05,393 - INFO - Executando script Analise MAC com parâmetros: ['Cachoeiro de Itapemirim']
+2024-12-29 20:52:14,195 - INFO - Script Analise MAC executado com sucesso!
+2024-12-29 20:52:14,195 - INFO - Executando script Analise MAC_SIH com parâmetros: ['Cachoeiro de Itapemirim']
+2024-12-29 20:52:28,710 - INFO - Script Analise MAC_SIH executado com sucesso!
+2024-12-29 20:52:28,711 - INFO - Executando script Analise MAC_SIA com parâmetros: ['Cachoeiro de Itapemirim']
+2024-12-29 20:52:44,290 - INFO - Script Analise MAC_SIA executado com sucesso!
+2024-12-29 20:52:44,291 - ERROR - Script A não encontrado.
+2024-12-29 20:52:44,291 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2024-12-29 20:58:54,359 - INFO - Iniciando execução de scripts para o município Cachoeiro de Itapemirim/ES...
+2024-12-29 20:58:54,574 - ERROR - Script A não encontrado.
+2024-12-29 20:58:54,574 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2024-12-29 21:05:23,224 - INFO - Iniciando execução de scripts para o município Cachoeiro de Itapemirim/ES...
+2024-12-29 21:05:23,430 - ERROR - Script A não encontrado.
+2024-12-29 21:05:23,430 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2024-12-29 21:07:52,715 - INFO - Iniciando execução de scripts para o município Cachoeiro de Itapemirim/ES...
+2024-12-29 21:07:52,909 - ERROR - Script A não encontrado.
+2024-12-29 21:07:52,909 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2024-12-29 21:15:01,029 - INFO - Starting script execution for municipality Cachoeiro de Itapemirim/ES...
+2024-12-29 21:15:01,229 - ERROR - Script A not found.
+2024-12-29 21:15:01,229 - ERROR - Some scripts failed. Check the logs for details.
+2024-12-29 21:19:35,299 - INFO - Iniciando execução de scripts para o município Cachoeiro de Itapemirim/ES...
+2024-12-29 21:19:35,482 - ERROR - Script A not found.
+2024-12-29 21:19:35,482 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2024-12-29 21:21:44,286 - INFO - Iniciando execução de scripts para o município Cachoeiro de Itapemirim/ES...
+2024-12-29 21:21:44,484 - INFO - Executando script analise_teto_mac com parâmetros: ['3201209']
+2024-12-29 21:21:44,484 - INFO - Caminho do script: analise_teto_mac.py
+2024-12-29 21:22:04,510 - INFO - Script analise_teto_mac executado com sucesso!
+2024-12-29 21:22:04,510 - INFO - Executando script BaixaSIA com parâmetros: ['2012', '1', '2025', '12', '3201209']
+2024-12-29 21:22:04,510 - INFO - Caminho do script: BaixaSIA.py
+2024-12-29 21:23:11,538 - INFO - Iniciando execução de scripts para o município Cachoeiro de Itapemirim/ES...
+2024-12-29 21:23:11,738 - ERROR - Script A not found.
+2024-12-29 21:23:11,739 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2024-12-29 21:23:11,739 - INFO - Iniciando execução de scripts para o município Cachoeiro de Itapemirim/ES...
+2024-12-29 21:23:11,931 - ERROR - Script A not found.
+2024-12-29 21:23:11,931 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2024-12-29 21:24:30,498 - INFO - Iniciando execução de scripts para o município Cachoeiro de Itapemirim/ES...
+2024-12-29 21:24:30,699 - ERROR - Script A not found.
+2024-12-29 21:24:30,699 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2024-12-29 21:25:51,676 - INFO - Iniciando execução de scripts para o município Cachoeiro de Itapemirim/ES...
+2024-12-29 21:25:51,858 - INFO - Executando script analise_teto_mac com parâmetros: ['3201209']
+2024-12-29 21:25:51,858 - INFO - Caminho do script: analise_teto_mac.py
+2024-12-29 21:26:26,198 - INFO - Iniciando execução de scripts para o município Cachoeiro de Itapemirim/ES...
+2024-12-29 21:26:26,382 - ERROR - Script A not found.
+2024-12-29 21:26:26,382 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2024-12-29 21:27:01,631 - INFO - Iniciando execução de scripts para o município Cachoeiro de Itapemirim/ES...
+2024-12-29 21:27:01,828 - ERROR - Script A not found.
+2024-12-29 21:27:01,828 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2024-12-29 21:31:20,733 - INFO - Iniciando execução de scripts para o município Cachoeiro de Itapemirim/ES...
+2024-12-29 21:31:20,939 - ERROR - Script A not found.
+2024-12-29 21:31:20,940 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2024-12-29 21:34:31,034 - INFO - Iniciando execução de scripts para o município Cachoeiro de Itapemirim/ES...
+2024-12-29 21:34:31,219 - INFO - Executando script Analise Correlações com parâmetros: []
+2024-12-29 21:35:08,016 - INFO - Script Analise Correlações executado com sucesso!
+2024-12-29 21:35:08,016 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2024-12-29 21:42:49,885 - INFO - Iniciando execução de scripts para o município Palmares/PE...
+2024-12-29 21:42:50,076 - INFO - Executando script evolucao_mac com parâmetros: ['2610004']
+2024-12-29 21:43:06,838 - INFO - Script evolucao_mac executado com sucesso!
+2024-12-29 21:43:06,838 - INFO - Executando script evolucao_mac2 com parâmetros: ['2610004']
+2024-12-29 21:43:22,110 - INFO - Script evolucao_mac2 executado com sucesso!
+2024-12-29 21:43:22,110 - INFO - Executando script MacUF com parâmetros: ['2610004']
+2024-12-29 21:43:48,778 - INFO - Script MacUF executado com sucesso!
+2024-12-29 21:43:48,778 - INFO - Executando script analise_teto_mac com parâmetros: ['2610004']
+2024-12-29 21:44:09,042 - INFO - Script analise_teto_mac executado com sucesso!
+2024-12-29 21:44:09,043 - INFO - Executando script BaixaSIA com parâmetros: ['2012', '1', '2025', '12', '2610004']
+2024-12-29 21:45:28,136 - INFO - Script BaixaSIA executado com sucesso!
+2024-12-29 21:45:28,136 - INFO - Executando script BaixaSIH com parâmetros: ['2012', '1', '2025', '12', '2610004']
+2024-12-29 21:46:08,891 - INFO - Script BaixaSIH executado com sucesso!
+2024-12-29 21:46:08,891 - INFO - Executando script Faixa com parâmetros: ['2610004']
+2024-12-29 21:46:19,651 - INFO - Script Faixa executado com sucesso!
+2024-12-29 21:46:19,651 - INFO - Executando script Econo com parâmetros: ['2610004', 'Palmares']
+2024-12-29 21:46:36,760 - INFO - Script Econo executado com sucesso!
+2024-12-29 21:46:36,760 - INFO - Executando script Resumo_PT com parâmetros: []
+2024-12-29 21:46:37,427 - INFO - Script Resumo_PT executado com sucesso!
+2024-12-29 21:46:37,427 - INFO - Executando script Analise MAC com parâmetros: ['Palmares']
+2024-12-29 21:46:46,069 - INFO - Script Analise MAC executado com sucesso!
+2024-12-29 21:46:46,070 - INFO - Executando script Analise MAC_SIH com parâmetros: ['Palmares']
+2024-12-29 21:46:59,802 - INFO - Script Analise MAC_SIH executado com sucesso!
+2024-12-29 21:46:59,803 - INFO - Executando script Analise MAC_SIA com parâmetros: ['Palmares']
+2024-12-29 21:47:16,590 - INFO - Script Analise MAC_SIA executado com sucesso!
+2024-12-29 21:47:16,590 - INFO - Executando script Analise Correlações com parâmetros: []
+2024-12-29 21:47:21,776 - INFO - Script Analise Correlações executado com sucesso!
+2024-12-29 21:47:21,776 - INFO - Todos os scripts foram executados com sucesso!
+2024-12-29 21:53:43,599 - INFO - Iniciando execução de scripts para o município Palmares/PE...
+2024-12-29 21:53:43,812 - INFO - Executando script evolucao_mac com parâmetros: ['2610004']
+2024-12-29 21:54:01,147 - INFO - Script evolucao_mac executado com sucesso!
+2024-12-29 21:54:01,147 - INFO - Executando script evolucao_mac2 com parâmetros: ['2610004']
+2024-12-29 21:54:17,186 - INFO - Script evolucao_mac2 executado com sucesso!
+2024-12-29 21:54:17,186 - INFO - Executando script MacUF com parâmetros: ['2610004']
+2024-12-29 21:54:43,660 - INFO - Script MacUF executado com sucesso!
+2024-12-29 21:54:43,660 - INFO - Executando script analise_teto_mac com parâmetros: ['2610004']
+2024-12-29 21:55:04,176 - INFO - Script analise_teto_mac executado com sucesso!
+2024-12-29 21:55:04,177 - INFO - Executando script BaixaSIA com parâmetros: ['2008', '1', '2025', '12', '2610004']
+2024-12-29 21:56:05,304 - INFO - Script BaixaSIA executado com sucesso!
+2024-12-29 21:56:05,304 - INFO - Executando script BaixaSIH com parâmetros: ['2008', '1', '2025', '12', '2610004']
+2024-12-29 21:56:50,508 - INFO - Script BaixaSIH executado com sucesso!
+2024-12-29 21:56:50,509 - INFO - Executando script Faixa com parâmetros: ['2610004']
+2024-12-29 21:57:00,985 - INFO - Script Faixa executado com sucesso!
+2024-12-29 21:57:00,986 - INFO - Executando script Econo com parâmetros: ['2610004', 'Palmares']
+2024-12-29 21:57:17,973 - INFO - Script Econo executado com sucesso!
+2024-12-29 21:57:17,973 - INFO - Executando script Resumo_PT com parâmetros: []
+2024-12-29 21:57:18,620 - INFO - Script Resumo_PT executado com sucesso!
+2024-12-29 21:57:18,620 - INFO - Executando script Analise MAC com parâmetros: ['Palmares']
+2024-12-29 21:57:26,840 - INFO - Script Analise MAC executado com sucesso!
+2024-12-29 21:57:26,841 - INFO - Executando script Analise MAC_SIH com parâmetros: ['Palmares']
+2024-12-29 21:57:41,380 - INFO - Script Analise MAC_SIH executado com sucesso!
+2024-12-29 21:57:41,380 - INFO - Executando script Analise MAC_SIA com parâmetros: ['Palmares']
+2024-12-29 21:57:56,995 - INFO - Script Analise MAC_SIA executado com sucesso!
+2024-12-29 21:57:56,995 - INFO - Executando script Analise Correlações com parâmetros: []
+2024-12-29 21:58:25,688 - INFO - Script Analise Correlações executado com sucesso!
+2024-12-29 21:58:25,689 - INFO - Todos os scripts foram executados com sucesso!
+2024-12-29 22:14:33,466 - INFO - Iniciando execução de scripts para o município Ribeirão/PE...
+2024-12-29 22:14:33,655 - INFO - Executando script evolucao_mac com parâmetros: ['2611804']
+2024-12-29 22:14:50,186 - INFO - Script evolucao_mac executado com sucesso!
+2024-12-29 22:14:50,186 - INFO - Executando script evolucao_mac2 com parâmetros: ['2611804']
+2024-12-29 22:15:06,230 - INFO - Script evolucao_mac2 executado com sucesso!
+2024-12-29 22:15:06,231 - INFO - Executando script MacUF com parâmetros: ['2611804']
+2024-12-29 22:15:32,649 - INFO - Script MacUF executado com sucesso!
+2024-12-29 22:15:32,650 - INFO - Executando script analise_teto_mac com parâmetros: ['2611804']
+2024-12-29 22:15:50,802 - INFO - Script analise_teto_mac executado com sucesso!
+2024-12-29 22:15:50,802 - INFO - Executando script BaixaSIA com parâmetros: ['2008', '1', '2025', '12', '2611804']
+2024-12-29 22:17:07,115 - INFO - Script BaixaSIA executado com sucesso!
+2024-12-29 22:17:07,118 - INFO - Executando script BaixaSIH com parâmetros: ['2008', '1', '2025', '12', '2611804']
+2024-12-29 22:17:53,491 - INFO - Script BaixaSIH executado com sucesso!
+2024-12-29 22:17:53,491 - INFO - Executando script Faixa com parâmetros: ['2611804']
+2024-12-29 22:18:03,213 - INFO - Script Faixa executado com sucesso!
+2024-12-29 22:18:03,213 - INFO - Executando script Econo com parâmetros: ['2611804', 'Ribeirão']
+2024-12-29 22:18:24,179 - INFO - Script Econo executado com sucesso!
+2024-12-29 22:18:24,179 - INFO - Executando script Resumo_PT com parâmetros: []
+2024-12-29 22:18:24,836 - INFO - Script Resumo_PT executado com sucesso!
+2024-12-29 22:18:24,837 - INFO - Executando script Analise MAC com parâmetros: ['Ribeirão']
+2024-12-29 22:18:33,307 - INFO - Script Analise MAC executado com sucesso!
+2024-12-29 22:18:33,307 - INFO - Executando script Analise MAC_SIH com parâmetros: ['Ribeirão']
+2024-12-29 22:18:47,809 - INFO - Script Analise MAC_SIH executado com sucesso!
+2024-12-29 22:18:47,810 - INFO - Executando script Analise MAC_SIA com parâmetros: ['Ribeirão']
+2024-12-29 22:19:04,178 - INFO - Script Analise MAC_SIA executado com sucesso!
+2024-12-29 22:19:04,178 - INFO - Executando script Analise Correlações com parâmetros: []
+2024-12-29 22:19:24,074 - INFO - Script Analise Correlações executado com sucesso!
+2024-12-29 22:19:24,074 - INFO - Executando script Conclusão com parâmetros: []
+2024-12-29 22:19:36,583 - INFO - Script Conclusão executado com sucesso!
+2024-12-29 22:19:36,585 - INFO - Todos os scripts foram executados com sucesso!
+2025-01-01 19:48:00,672 - INFO - Iniciando execução de scripts para o município Wanderley/BA...
+2025-01-01 19:48:00,889 - INFO - Executando script evolucao_mac com parâmetros: ['2933455']
+2025-01-01 19:48:31,916 - INFO - Script evolucao_mac executado com sucesso!
+2025-01-01 19:48:31,916 - INFO - Executando script evolucao_mac2 com parâmetros: ['2933455']
+2025-01-01 19:48:47,638 - INFO - Script evolucao_mac2 executado com sucesso!
+2025-01-01 19:48:47,639 - INFO - Executando script MacUF com parâmetros: ['2933455']
+2025-01-01 19:49:26,794 - INFO - Script MacUF executado com sucesso!
+2025-01-01 19:49:26,794 - INFO - Executando script analise_teto_mac com parâmetros: ['2933455']
+2025-01-01 19:50:07,828 - INFO - Script analise_teto_mac executado com sucesso!
+2025-01-01 19:50:07,828 - INFO - Executando script BaixaSIA com parâmetros: ['2010', '1', '2025', '12', '2933455']
+2025-01-01 19:52:21,701 - INFO - Script BaixaSIA executado com sucesso!
+2025-01-01 19:52:21,701 - INFO - Executando script BaixaSIH com parâmetros: ['2010', '1', '2025', '12', '2933455']
+2025-01-01 19:53:06,750 - INFO - Script BaixaSIH executado com sucesso!
+2025-01-01 19:53:06,750 - INFO - Executando script Faixa com parâmetros: ['2933455']
+2025-01-01 19:53:19,332 - INFO - Script Faixa executado com sucesso!
+2025-01-01 19:53:19,332 - INFO - Executando script Econo com parâmetros: ['2933455', 'Wanderley']
+2025-01-01 19:53:43,877 - INFO - Script Econo executado com sucesso!
+2025-01-01 19:53:43,878 - INFO - Executando script Resumo_PT com parâmetros: []
+2025-01-01 19:53:44,510 - INFO - Script Resumo_PT executado com sucesso!
+2025-01-01 19:53:44,510 - INFO - Executando script Analise MAC com parâmetros: ['Wanderley']
+2025-01-01 19:53:52,422 - INFO - Script Analise MAC executado com sucesso!
+2025-01-01 19:53:52,422 - INFO - Executando script Analise MAC_SIH com parâmetros: ['Wanderley']
+2025-01-01 19:54:07,492 - INFO - Script Analise MAC_SIH executado com sucesso!
+2025-01-01 19:54:07,492 - INFO - Executando script Analise MAC_SIA com parâmetros: ['Wanderley']
+2025-01-01 19:54:22,375 - INFO - Script Analise MAC_SIA executado com sucesso!
+2025-01-01 19:54:22,375 - INFO - Executando script Analise Correlações com parâmetros: []
+2025-01-01 19:54:39,284 - INFO - Script Analise Correlações executado com sucesso!
+2025-01-01 19:54:39,284 - INFO - Executando script Conclusão com parâmetros: []
+2025-01-01 19:55:00,036 - INFO - Script Conclusão executado com sucesso!
+2025-01-01 19:55:00,036 - INFO - Todos os scripts foram executados com sucesso!
+2025-01-01 20:08:24,868 - INFO - Iniciando execução de scripts para o município Wanderley/BA...
+2025-01-01 20:08:25,051 - INFO - Executando script Analise MAC_SIH com parâmetros: ['Wanderley']
+2025-01-01 20:08:38,916 - INFO - Script Analise MAC_SIH executado com sucesso!
+2025-01-01 20:08:38,919 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2025-01-01 20:19:45,236 - INFO - Iniciando execução de scripts para o município Wanderley/BA...
+2025-01-01 20:19:45,420 - INFO - Executando script Analise MAC_SIH com parâmetros: ['Wanderley']
+2025-01-01 20:19:59,755 - INFO - Script Analise MAC_SIH executado com sucesso!
+2025-01-01 20:19:59,756 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2025-01-01 20:35:03,994 - INFO - Iniciando execução de scripts para o município Wanderley/BA...
+2025-01-01 20:35:04,184 - INFO - Executando script Analise MAC_SIH com parâmetros: ['Wanderley']
+2025-01-01 20:35:21,353 - INFO - Script Analise MAC_SIH executado com sucesso!
+2025-01-01 20:35:21,353 - INFO - Executando script Analise Correlações com parâmetros: []
+2025-01-01 20:35:35,820 - INFO - Script Analise Correlações executado com sucesso!
+2025-01-01 20:35:35,820 - INFO - Executando script Conclusão com parâmetros: []
+2025-01-01 20:35:50,433 - INFO - Script Conclusão executado com sucesso!
+2025-01-01 20:35:50,434 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2025-01-01 20:37:22,965 - INFO - Iniciando execução de scripts para o município Wanderley/BA...
+2025-01-01 20:37:23,138 - INFO - Executando script Analise MAC_SIH com parâmetros: ['Wanderley']
+2025-01-01 20:37:57,667 - INFO - Script Analise MAC_SIH executado com sucesso!
+2025-01-01 20:37:57,667 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2025-01-02 10:44:39,793 - INFO - Iniciando execução de scripts para o município Wanderley/BA...
+2025-01-02 10:44:40,098 - INFO - Executando script Conclusão com parâmetros: []
+2025-01-02 10:44:57,306 - INFO - Script Conclusão executado com sucesso!
+2025-01-02 10:44:57,307 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2025-01-02 10:55:16,410 - INFO - Iniciando execução de scripts para o município Wanderley/BA...
+2025-01-02 10:55:16,646 - INFO - Executando script Conclusão com parâmetros: []
+2025-01-02 10:55:29,840 - INFO - Script Conclusão executado com sucesso!
+2025-01-02 10:55:29,841 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
+2025-01-02 10:58:34,524 - INFO - Iniciando execução de scripts para o município Wanderley/BA...
+2025-01-02 10:58:34,735 - INFO - Executando script Conclusão com parâmetros: []
+2025-01-02 10:58:47,644 - INFO - Script Conclusão executado com sucesso!
+2025-01-02 10:58:47,645 - ERROR - Alguns scripts falharam. Verifique os logs para mais detalhes.
