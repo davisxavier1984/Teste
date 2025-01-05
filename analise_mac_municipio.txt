@@ -1,29 +1,28 @@
 
-# Análise da Evolução do Teto Financeiro MAC - Wanderley
+# Análise da Evolução do Teto Financeiro MAC - Ribeirão
 
 ## Análise da Tendência
-Análise da Tendência do Teto Financeiro MAC para Wanderley
+Análise da Tendência do Teto Financeiro MAC para Ribeirão
 
-O teto financeiro MAC para o município de Wanderley apresentou uma tendência de crescimento no período analisado, apesar de algumas oscilações.  Observamos um valor inicial de R\$ 157.500,00 em 2015, que demonstra um aumento significativo até R\$ 341.936,40 em 2025.  Esse crescimento, embora expressivo, não foi linear.
+O teto financeiro MAC para o município de Ribeirão apresentou uma evolução significativa no período analisado, de 2010 a 2025.  Inicialmente, em 2010, o valor era de R\$ 1.261.568,54.  Até 2013, observou-se uma estabilidade em torno de R\$ 2.164.473,85, indicando um período sem grandes alterações no financiamento.
 
-Entre 2015 e 2017, houve um aumento considerável do teto, passando de R\$ 157.500,00 para R\$ 263.028,00.  Este salto pode ser atribuído, possivelmente, ao impacto de portarias que implementaram novas políticas ou incentivos financeiros para a saúde no município.  A ausência de dados para os anos de 2018 demonstra uma lacuna na série temporal que dificulta uma análise mais precisa da influência das portarias nesse período.
+A partir de 2014,  nota-se um aumento gradual no teto financeiro, impulsionado principalmente pela inclusão de incentivos.  A introdução desses incentivos, provavelmente refletida em portarias específicas, gerou um crescimento contínuo, embora com algumas oscilações anuais.  A variação entre 2014 e 2025 demonstra um crescimento considerável.
 
-Após 2017, o teto permaneceu estável em R\$ 263.028,00 por alguns anos, indicando uma possível consolidação das políticas implementadas anteriormente.  A partir de 2023, no entanto, observa-se uma retomada do crescimento, atingindo R\$ 341.936,40 em 2025.  Essa nova fase de crescimento sugere a influência de novas portarias ou ajustes nas políticas de financiamento da saúde, que possivelmente levaram a um aumento nos recursos destinados ao município.  A variação percentual total entre 2015 e 2025 é de :green[117,2%], demonstrando um crescimento substancial no teto financeiro MAC.
+A análise dos dados de incentivos revela uma tendência de crescimento, embora com flutuações.  Em alguns anos, houve reduções nos valores dos incentivos, o que impactou o crescimento do teto financeiro MAC, mas a tendência geral foi de aumento.  A :red[forte alta] observada em 2022 e 2023, por exemplo, sugere a influência de portarias que aumentaram significativamente os recursos destinados ao município.  O valor final em 2025, de R\$ 2.800.959,85, representa um aumento considerável em relação ao valor inicial de 2010.  Calculando a variação percentual entre 2010 e 2025, temos um crescimento de aproximadamente :green[122%].
 
-A análise completa da influência das portarias requer uma investigação mais detalhada de seus conteúdos e impactos específicos sobre o financiamento da saúde em Wanderley.  No entanto, a análise da evolução do teto MAC indica uma forte correlação entre a publicação dessas portarias e as mudanças observadas nos valores financeiros.  A ausência de dados para alguns anos limita a precisão da análise, mas a tendência geral de crescimento é inegável.
+A análise da evolução do teto financeiro MAC demonstra uma tendência de crescimento, principalmente impulsionada pela inclusão de incentivos ao longo dos anos.  As oscilações anuais refletem a complexidade do processo de alocação de recursos e a influência de diferentes portarias, que podem ter aumentado ou diminuído os valores dos incentivos em determinados períodos.  A compreensão das nuances dessas portarias é crucial para uma análise mais aprofundada da dinâmica financeira do município.
 
 ## Influência das Portarias
 As portarias listadas abaixo tiveram impacto significativo na evolução do Teto Financeiro MAC. A análise detalhada da influência de cada portaria foge ao escopo deste documento, mas é possível afirmar que os acréscimos e remanejamentos descritos contribuíram diretamente para o aumento do teto ao longo dos anos.
 
 ### Tabela 1: Portarias com Maior Impacto na Evolução do Teto MAC
 
-| Portaria | Data | Tipo | Incentivo | Valor (R\$) | Competência |
+| Portaria | Data | Tipo | Incentivo | Valor (R$) | Competência |
 |---|---|---|---|---|---|
-| GM 06267/2024 | 27/12/2024 | Acréscimo | Incentivo CAPS I, II, III, i e ad | 841.920,00 | 11ª/2024 |
 | GM 01631/2023 | 24/10/2023 | Acréscimo | Incentivo SAMU | 2.047.500,00 | 8ª/2023 |
 | GM 01261/2023 | 13/09/2023 | Acréscimo | Incentivo CAPS I, II, III, i e ad | 920.760,00 | 6ª/2023 |
 | GM 01366/2022 | 08/06/2022 | Acréscimo | Incentivo CAPS I, II, III, i e ad | 3.396.600,00 | 7ª/2022 |
 
 
 ## Conclusão
-A análise da evolução do Teto Financeiro MAC para o município de Wanderley demonstra um crescimento significativo no período analisado, com uma variação percentual de :green[117,2%] entre 2015 e 2025.  Apesar de algumas oscilações e lacunas nos dados, a tendência de aumento é clara e possivelmente relacionada à implementação de portarias que impactaram o financiamento da saúde no município.  A análise detalhada das portarias e sua correlação com a produção ambulatorial e hospitalar fornecerá subsídios adicionais para a justificativa do pleito de ajuste do teto MAC para o próximo ano.
+A análise da evolução do Teto Financeiro MAC para Ribeirão entre 2010 e 2025 demonstra uma tendência de crescimento significativo, impulsionada principalmente pela inclusão de incentivos a partir de 2014.  Apesar de flutuações anuais, o aumento total de aproximadamente :green[122%]  indica a necessidade de uma revisão do teto para o próximo ano, considerando a tendência de crescimento e a necessidade de manter a capacidade de atendimento à população.  A análise detalhada das portarias que impactaram esses valores é fundamental para justificar o pleito de ajuste e garantir a sustentabilidade financeira dos serviços de saúde do município.
