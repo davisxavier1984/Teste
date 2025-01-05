@@ -303,7 +303,7 @@ def main():
     
         # Caminhos das imagens
         logo_maisgestor = 'logo_colorida_mg.png'
-        logo = 'logo.jpg'
+        logo = 'Logo Ribeirao.png'
 
         # Converter imagens para base64
         logo_maisgestor_base64 = img_to_base64(logo_maisgestor)
