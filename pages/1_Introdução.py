@@ -313,7 +313,6 @@ def main():
         st.sidebar.markdown(
             f"""
             <div style="display: flex; flex-direction: column; align-items: center;">
-                
                 <img src='data:image/png;base64,{logo_base64}' style='height: 150px;'>
             </div>
             """,
