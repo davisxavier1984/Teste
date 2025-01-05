@@ -1,14 +1,14 @@
 [
     {
-        "Portaria": "GM 06267/2024",
-        "Data": "2024-12-27 00:00:00",
+        "Portaria": "GM 01366/2022",
+        "Data": "2022-06-08 00:00:00",
         "Tipo": "Acréscimo",
         "Incentivo": "Incentivo CAPS I, II, III, i e ad",
         "Área": "Saúde Mental-RAPS",
-        "Competência": "11ª/2024",
-        "Valor": 841920,
-        "Ano": 2024,
-        "Competência_Num": 11
+        "Competência": "7ª/2022",
+        "Valor": 3396600,
+        "Ano": 2022,
+        "Competência_Num": 7
     },
     {
         "Portaria": "GM 01631/2023",
@@ -31,16 +31,5 @@
         "Valor": 920760,
         "Ano": 2023,
         "Competência_Num": 6
-    },
-    {
-        "Portaria": "GM 01366/2022",
-        "Data": "2022-06-08 00:00:00",
-        "Tipo": "Acréscimo",
-        "Incentivo": "Incentivo CAPS I, II, III, i e ad",
-        "Área": "Saúde Mental-RAPS",
-        "Competência": "7ª/2022",
-        "Valor": 3396600,
-        "Ano": 2022,
-        "Competência_Num": 7
     }
 ]
