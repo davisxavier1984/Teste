@@ -3,3 +3,4 @@ plotly-express
 pandas
 babel
 streamlit-extras
+pyUFbr
